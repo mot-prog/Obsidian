@@ -1,0 +1,3 @@
+[submodule "Polytech"]
+	path = Polytech
+	url = git@github.com:mot-prog/Polytech.git
