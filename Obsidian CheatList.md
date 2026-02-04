@@ -129,3 +129,12 @@ section .text global _start
 
 >[!bug] 
 
+
+# Extension pour affichage de code 
+```reference
+file : Path
+lang : python
+fold : true
+unwrap : false
+title : Bioteos
+```
