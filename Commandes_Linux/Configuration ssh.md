@@ -8,3 +8,13 @@ ssh -p <ip>
 termux-wake-lock #utiliser le ssh avec le téléphone en veille
 pkg update && pkg upgrade
 ```
+
+# Génération d'un clef ssh
+```bash
+ssh-keygen -t ed25519 -C "name"
+```
+
+#### récupération de la clef 
+```bash
+cat ~/.ssh/id_ed25519.pub
+```

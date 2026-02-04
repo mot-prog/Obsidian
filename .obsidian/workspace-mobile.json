@@ -11,10 +11,14 @@
             "id": "35e00691a58e9f48",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Commandes_Linux/Configuration ssh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configuration ssh"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Polytech/S6/EG/Diapo 41 Note sur la page.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,6 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Polytech/S6/EG/Diapo 41 Note sur la page.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,6 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Polytech/S6/EG/Diapo 41 Note sur la page.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -164,5 +171,18 @@
     }
   },
   "active": "35e00691a58e9f48",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Commandes_Linux/Installation config zsh.md",
+    "Commandes_Linux/Commandes_Linux.md",
+    "Polytech/S6/Communication/Outils de Communication.md",
+    "Perso/Qualité et défaut.md",
+    "Perso/Perso.md",
+    "C/string/strcpy.md",
+    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Introduction.md",
+    "Polytech/S6/up/memoire/Gestionnaire Mémoire.md",
+    "Polytech/S6/up/memoire/Adresses et registres.md",
+    "Jeremy Chan.md",
+    "Polytech/S6/EG/Diapo 41 Note sur la page.md",
+    "Perso/Android zshrc.md"
+  ]
 }
