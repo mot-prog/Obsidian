@@ -1,28 +1,24 @@
 {
   "main": {
-    "id": "8fb69ccc348a18af",
+    "id": "e9f190774287c2a9",
     "type": "split",
     "children": [
       {
-        "id": "93ad6cd8e7632323",
+        "id": "f8eba2f4b5fd336d",
         "type": "tabs",
         "children": [
           {
-            "id": "6881ab0c16b91729",
+            "id": "44216240c76c324a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view",
               "type": "markdown",
               "state": {
-                "file": "Commandes_Linux/Configuration ssh.md",
-                "mode": "source",
-                "source": false
+                "file": "Scripts/translate.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Configuration ssh"
+              "title": "translate"
             }
           }
         ]
@@ -31,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c260bb91edbbfcca",
+    "id": "3dfc307cf1a6a4d4",
     "type": "split",
     "children": [
       {
-        "id": "aab8ff9035050a6b",
+        "id": "86fc499a444bc149",
         "type": "tabs",
         "children": [
           {
-            "id": "ae4413cb5e1e5af4",
+            "id": "4947514587e0920c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +48,7 @@
             }
           },
           {
-            "id": "4a560ae820b58a97",
+            "id": "ebef0ae506f15d89",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -69,7 +65,7 @@
             }
           },
           {
-            "id": "c6fe911ce34436d0",
+            "id": "ad33be8fa63f3182",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "c3602fcb8f7f48ea",
+    "id": "3909a8983367b46a",
     "type": "split",
     "children": [
       {
-        "id": "dcfe0819ced1fc83",
+        "id": "f4ce0903f8c8bba6",
         "type": "tabs",
         "children": [
           {
-            "id": "020c57684dd3379b",
+            "id": "6efc1bf24aaf2a95",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Commandes_Linux/ln -s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ln -s"
             }
           },
           {
-            "id": "c15ae884a3198353",
+            "id": "58e599644c3d5aae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Commandes_Linux/ln -s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from ln -s"
             }
           },
           {
-            "id": "b7bb538c9a1e6194",
+            "id": "34ee63af19d6e38a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,7 +137,7 @@
             }
           },
           {
-            "id": "ceb94d2c74eabbfe",
+            "id": "b01e689c33e49f6d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,17 +151,18 @@
             }
           },
           {
-            "id": "bb33abce74d2231e",
+            "id": "06f761b78071c314",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Commandes_Linux/ln -s.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of ln -s"
             }
           }
         ]
@@ -186,29 +185,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6881ab0c16b91729",
+  "active": "44216240c76c324a",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Polytech/Polytech.md",
-=======
-    "Perso/Android zshrc.md",
-    "Perso/Perso.md",
-    "Commandes_Linux/Configuration ssh.md",
-    "Commandes_Linux/Commandes_Linux.md",
-    "Perso/sync.sh.md",
-    "Perso/Perso.md",
->>>>>>> f775ca8f0c481db3879914c73462190793bd9a1f
-    "Perso/Debian zshrc.md",
-    "Perso/Perso.md",
-    "Perso/Manjaro zshrc.md",
-    "Perso/sync.sh.md",
+    "Scripts/spell.md",
+    "Scripts/define.md",
+    "Scripts/translate.md",
     "Obsidian CheatList.md",
-    "Projets/Bioteos.md",
-    "Commandes_Linux/Installation config zsh.md",
-    "Commandes_Linux/Configuration ssh.md",
-    "Perso/Android zshrc.md",
-    "Commandes_Linux/Commandes_Linux.md",
-    "Polytech/test_poly.txt",
-    "test.txt"
+    "Scripts/Scripts.md",
+    "Commandes_Linux/ln -s.md",
+    "Scripts/translate.sh",
+    "Scripts/def.sh",
+    "Scripts/spell.sh",
+    "Commandes_Linux/ls -l.md",
+    "Perso/sync.sh.md",
+    "Scripts",
+    "Perso/Chinois/Chinois.md",
+    "Perso/Chinois/Ye.md",
+    "Perso/Chinois/Nu er.md",
+    "Perso/Chinois/laogon.md",
+    "Draw/Also.md"
   ]
 }
