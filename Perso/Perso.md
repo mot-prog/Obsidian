@@ -1,8 +1,5 @@
 %% Begin Waypoint %%
-- **Chinois**
-	- [[laogon]]
-	- [[Nu er]]
-	- [[Ye]]
+- **[[Chinois]]**
 - [[Android zshrc]]
 - [[Debian zshrc]]
 - [[Manjaro zshrc]]

@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perso/Chinois/Nu er.md",
+                "file": "Scripts/define.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nu er"
+              "title": "define"
             }
           }
         ],
@@ -214,8 +214,16 @@
   },
   "active": "bf4242edfd8a44e8",
   "lastOpenFiles": [
-    "Draw/Daughter.md",
     "Perso/Chinois/Nu er.md",
+    "Scripts/translate.sh",
+    "Scripts/translate.md",
+    "Scripts/spell.md",
+    "Scripts/define.md",
+    "Scripts/def.sh",
+    "Scripts/Scripts.md",
+    "Scripts",
+    "Perso/Chinois/Chinois.md",
+    "Draw/Daughter.md",
     "Perso/Chinois/Ye.md",
     "Perso/Chinois/laogon.md",
     "Draw",
@@ -235,12 +243,6 @@
     "Perso/Qualité et défaut.md",
     "Polytech/S6/Communication/Technique en entretient.md",
     "Git/git clone --recursive.md",
-    "Commandes_Linux/Configuration ssh.md",
-    "Commandes_Linux/Installation config zsh.md",
-    "Commandes_Linux/Commandes_Linux.md",
-    "C/string/strcpy.md",
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Introduction.md",
-    "Polytech/S6/up/memoire/Gestionnaire Mémoire.md",
-    "Polytech/S6/up/memoire/Adresses et registres.md"
+    "Commandes_Linux/Configuration ssh.md"
   ]
 }
