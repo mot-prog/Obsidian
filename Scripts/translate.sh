@@ -1,1 +1,0 @@
-/home/manjaro_mot/translate.sh
