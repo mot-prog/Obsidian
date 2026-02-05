@@ -1,0 +1,2 @@
+#also #aussi
+![[Also]]
