@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S6/up/memoire/Mémoires.md",
+                "file": "Polytech/S6/SD/TP/TP.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mémoires"
+              "title": "TP"
             }
           },
           {
@@ -180,7 +180,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Polytech/S6/up/memoire/Mémoires.md",
+            "file": "Polytech/S6/SD/TP/TP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -240,9 +240,10 @@
   },
   "active": "35e00691a58e9f48",
   "lastOpenFiles": [
+    "C/stdio/Fgets.md",
+    "Polytech/S6/up/memoire/Mémoires.md",
     "Polytech/S6/up/up.md",
     "Polytech/S6/up/memoire/memoire.md",
-    "Polytech/S6/up/memoire/Mémoires.md",
     "Photos/Hiérarchie.jpg",
     "Polytech/Polytech.md",
     "Perso/Chinois/laogon.md",
