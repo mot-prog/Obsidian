@@ -1,0 +1,1 @@
+/home/manjaro_mot/def.sh

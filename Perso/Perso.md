@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
+- **[[Chinois]]**
 - [[Android zshrc]]
 - [[Debian zshrc]]
 - [[Manjaro zshrc]]
