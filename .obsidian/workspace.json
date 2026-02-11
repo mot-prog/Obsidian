@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "e9f190774287c2a9",
+    "id": "729a4c6b02fed16c",
     "type": "split",
     "children": [
       {
-        "id": "f8eba2f4b5fd336d",
+        "id": "0d4e20423c3ff5d1",
         "type": "tabs",
         "children": [
           {
-            "id": "44216240c76c324a",
+            "id": "ef313df3000eeaf6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scripts/translate.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "translate"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3dfc307cf1a6a4d4",
+    "id": "5b043f780ffd0222",
     "type": "split",
     "children": [
       {
-        "id": "86fc499a444bc149",
+        "id": "effb1f657cdeb5e2",
         "type": "tabs",
         "children": [
           {
-            "id": "4947514587e0920c",
+            "id": "0c8b0701259ba287",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "ebef0ae506f15d89",
+            "id": "ba563a8a0aa9529b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "ad33be8fa63f3182",
+            "id": "93892be4d5be59cb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "3909a8983367b46a",
+    "id": "18aaf8a78d7fa3c0",
     "type": "split",
     "children": [
       {
-        "id": "f4ce0903f8c8bba6",
+        "id": "d52fda1e9acd9bea",
         "type": "tabs",
         "children": [
           {
-            "id": "6efc1bf24aaf2a95",
+            "id": "3befbfba95bd560a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commandes_Linux/ln -s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ln -s"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "58e599644c3d5aae",
+            "id": "1a59b138d92afd2d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commandes_Linux/ln -s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ln -s"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "34ee63af19d6e38a",
+            "id": "3a470a0536cdc910",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +131,7 @@
             }
           },
           {
-            "id": "b01e689c33e49f6d",
+            "id": "7cd358b6e66aa183",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +145,17 @@
             }
           },
           {
-            "id": "06f761b78071c314",
+            "id": "c940e0fda3716791",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commandes_Linux/ln -s.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ln -s"
+              "title": "Outline"
             }
           }
         ]
@@ -185,33 +178,6 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "44216240c76c324a",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Polytech/S6/Communication/Entretient exercice.md",
-    "Polytech/Polytech.md",
-    "Perso/Debian zshrc.md",
-    "Perso/Perso.md",
-    "Perso/Manjaro zshrc.md",
-    "Perso/sync.sh.md",
-=======
-    "Scripts/spell.md",
-    "Scripts/define.md",
-    "Scripts/translate.md",
->>>>>>> 916874031ffa519b834e170d9ce4faeba714f08f
-    "Obsidian CheatList.md",
-    "Scripts/Scripts.md",
-    "Commandes_Linux/ln -s.md",
-    "Scripts/translate.sh",
-    "Scripts/def.sh",
-    "Scripts/spell.sh",
-    "Commandes_Linux/ls -l.md",
-    "Perso/sync.sh.md",
-    "Scripts",
-    "Perso/Chinois/Chinois.md",
-    "Perso/Chinois/Ye.md",
-    "Perso/Chinois/Nu er.md",
-    "Perso/Chinois/laogon.md",
-    "Draw/Also.md"
-  ]
+  "active": "ef313df3000eeaf6",
+  "lastOpenFiles": []
 }
