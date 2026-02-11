@@ -11,10 +11,14 @@
             "id": "ef313df3000eeaf6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Polytech/S6/Prog SE/Connecteurs USB.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Connecteurs USB"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Polytech/S6/Prog SE/Connecteurs USB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Connecteurs USB"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Polytech/S6/Prog SE/Connecteurs USB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Connecteurs USB"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Polytech/S6/Prog SE/Connecteurs USB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Connecteurs USB"
             }
           }
         ]
@@ -179,5 +186,13 @@
     }
   },
   "active": "ef313df3000eeaf6",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Polytech/S6/Prog SE/Prog SE.md",
+    "Polytech/S6/Prog SE/Connecteurs USB.md",
+    "Obsidian CheatList.md",
+    "Commandes_Linux/lusb.md",
+    "Commandes_Linux/Commandes_Linux.md",
+    "Polytech/S6/S6.md",
+    "Polytech/S6/Prog SE"
+  ]
 }
