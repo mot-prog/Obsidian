@@ -6,3 +6,9 @@ Hihi yippee yay new class :3
 Tellement gay 
 :))
 Test 
+
+[[Obsidian CheatList]]
+
+
+
+
