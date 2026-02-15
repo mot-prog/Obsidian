@@ -89,7 +89,7 @@ Pour illustrer tes cours.
 2. étape 2
 
 - [ ] A faire
-- [X] Fait 
+- [x] Fait 
 
 ```c
 #include <stdio.h>
@@ -138,3 +138,7 @@ fold : true
 unwrap : false
 title : Bioteos
 ```
+
+
+[[Jeremy Chan]]
+

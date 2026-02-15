@@ -20,6 +20,7 @@
               "icon": "lucide-file",
               "title": "pt4 Les applications des AOP"
             }
+<<<<<<< HEAD
           },
           {
             "id": "3aaddf6b9ee2884a",
@@ -34,9 +35,10 @@
               "icon": "lucide-file",
               "title": "autoclicker"
             }
+=======
+>>>>>>> 201352e59c7537a22d59c1fa0563d4ee785bcb99
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,8 +202,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3aaddf6b9ee2884a",
+  "active": "ef313df3000eeaf6",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Obsidian CheatList.md",
     "Perso/autoclicker.md",
     "Perso/autoclicker.py",
@@ -209,6 +212,18 @@
     "Perso/Android zshrc.md",
     "Perso/Debian zshrc.md",
     "Perso/Manjaro zshrc.md",
+=======
+    "Polytech/S6/up/memoire/Adresses et registres.md",
+    "Jeremy Chan.md",
+    "Obsidian CheatList.md",
+    "Drawing 2026-02-14 16.22.50.excalidraw.md",
+    "Polytech/S6/SD/TP/TP3_debugging/README.md",
+    "Polytech/S6/Communication/Outils de Communication.md",
+    "Polytech/S6/Communication/Technique en entretient.md",
+    "Polytech/S6/Communication/Entretient exercice.md",
+    "C/stdio/Fgets.md",
+    "C/stdio/fprintf.md",
+>>>>>>> 201352e59c7537a22d59c1fa0563d4ee785bcb99
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt3 La contre réaction.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Introduction.md",
@@ -234,7 +249,6 @@
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Circuits_de_conditionnements.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/lm35.pdf",
     "Polytech/S6/EG/Untitled.md",
-    "Polytech/S6/Communication/Outils de Communication.md",
     "Polytech/S6/Prog SE/Prog SE.md",
     "Commandes_Linux/lusb.md",
     "Commandes_Linux/Commandes_Linux.md",
