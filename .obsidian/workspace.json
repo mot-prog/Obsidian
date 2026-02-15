@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
-                "mode": "source",
+                "file": "Perso/autoclicker.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pt4 Les applications des AOP"
+              "title": "autoclicker"
             }
           }
         ],
@@ -202,10 +202,17 @@
   },
   "active": "3aaddf6b9ee2884a",
   "lastOpenFiles": [
+    "Obsidian CheatList.md",
+    "Perso/autoclicker.md",
+    "Perso/autoclicker.py",
+    "Perso/Perso.md",
+    "Perso/Android zshrc.md",
+    "Perso/Debian zshrc.md",
+    "Perso/Manjaro zshrc.md",
+    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt3 La contre réaction.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Introduction.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Ref/Sommateur non inverseur.md",
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt2 Circuits_de_conditionnements.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt1 Circuits_de_conditionnements.md",
     "Polytech/S6/Prog SE/Connecteurs USB.md",
@@ -226,11 +233,9 @@
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Ref",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Circuits_de_conditionnements.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/lm35.pdf",
-    "Perso/Debian zshrc.md",
     "Polytech/S6/EG/Untitled.md",
     "Polytech/S6/Communication/Outils de Communication.md",
     "Polytech/S6/Prog SE/Prog SE.md",
-    "Obsidian CheatList.md",
     "Commandes_Linux/lusb.md",
     "Commandes_Linux/Commandes_Linux.md",
     "Polytech/S6/S6.md",

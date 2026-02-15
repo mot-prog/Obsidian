@@ -19,6 +19,10 @@ alias close_ssh='fusermount -u ~/acces_coffre'
 alias e='exit'  
 alias s='systemctl suspend'  #==Sleep
 alias sync='cd ~/ && source .zshrc'  
-  
-./sync.sh
+alias spell='~/spell.sh'  
+alias def='~/def.sh'  
+alias trans='~/translate.sh'  
+alias trad='~/translate.sh -f'  
+alias autoclick='~/autoclicker.py &' 
+
 ```
