@@ -22,17 +22,25 @@
             }
           },
           {
+            "id": "ee59f7ecddbe9a10",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "d70439c82db02e72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Perso/Chinois/Ye.md",
-                "mode": "source",
-                "source": false
+                "file": "Draw/Also.md"
               },
-              "icon": "lucide-file",
-              "title": "Ye"
+              "icon": "excalidraw-icon",
+              "title": "Also"
             }
           },
           {
@@ -89,7 +97,8 @@
               "title": "ex_pagination"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,13 +247,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "35e00691a58e9f48",
+  "active": "d70439c82db02e72",
   "lastOpenFiles": [
+    "Perso/Chinois/Ye.md",
+    "test.md",
+    "C/C.md",
+    "Excalidraw/Drawing 2026-02-14 16.26.42.excalidraw.md",
+    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Circuits_de_conditionnements pt2.md",
+    "Excalidraw",
     "Polytech/S6/Prog SE/Prog SE.md",
     "Polytech/S6/Prog SE/Connecteurs USB.md",
     "Polytech/S6/Prog SE",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Circuits_de_conditionnements pt1.md",
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Circuits_de_conditionnements pt2.md",
     "Polytech/S6/up/memoire/Adresses et registres.md",
     "Polytech/S6/up/memoire/Photos/Belady.jpg",
     "Polytech/S6/up/memoire/Gestionnaire Mémoire.md",
@@ -277,14 +291,9 @@
     "Commandes_Linux/Commandes_Linux.md",
     "Commandes_Linux/TOP.md",
     "Polytech/S6/up/memoire/Photos",
-    "Scripts/define.md",
     "Scripts/spell.sh",
-    "Perso/Chinois/Nu er.md",
     "Scripts/translate.sh",
-    "Scripts/translate.md",
-    "Scripts/spell.md",
     "Scripts/def.sh",
-    "Scripts",
-    "Draw"
+    "Scripts"
   ]
 }
