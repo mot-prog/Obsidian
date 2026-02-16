@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S6/OS/Introduction.md",
+                "file": "Polytech/S6/OS/Chapitre 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Chapitre 1"
             }
           }
         ]
@@ -187,13 +187,25 @@
   },
   "active": "ef313df3000eeaf6",
   "lastOpenFiles": [
+    "Pasted image 20260216173116.png",
+    "Pasted image 20260216173114 3.png",
+    "Pasted image 20260216173114 2.png",
+    "Pasted image 20260216173114 1.png",
+    "Pasted image 20260216173114.png",
+    "Pasted image 20260216173113 8.png",
+    "Pasted image 20260216173113 7.png",
+    "Pasted image 20260216173113 6.png",
+    "Pasted image 20260216173113 5.png",
+    "Pasted image 20260216173113 4.png",
+    "Pasted image 20260216173113 3.png",
+    "Polytech/S6/OS/OS.md",
+    "Polytech/S6/OS/Chapitre 1.md",
+    "Polytech/S6/OS/Introduction.md",
     "Perso/autoclicker.py",
     "Perso/autoclicker.md",
     "Excalidraw/Drawing 2026-02-14 16.26.42.excalidraw.md",
     "Excalidraw",
-    "Polytech/S6/OS/OS.md",
     "Polytech/S6/up/up.md",
-    "Polytech/S6/OS/Introduction.md",
     "Polytech/S6/SD/SD.md",
     "Polytech/S6/S6.md",
     "Polytech/S6/OS",
@@ -214,18 +226,7 @@
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt2 Circuits_de_conditionnements.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt1 Circuits_de_conditionnements.md",
     "Polytech/S6/Prog SE/Connecteurs USB.md",
-    "Polytech/S6/up/memoire/Ref/model-mem.png",
-    "Polytech/S6/up/memoire/Ref/ex3.png",
-    "Polytech/S6/up/memoire/Ref/ex2.png",
-    "Polytech/S6/up/memoire/Ref/ex1.png",
-    "Polytech/S6/up/memoire/Ref/ex1-c.png",
     "Polytech/S6/up/memoire/Ref",
-    "Polytech/S6/up/memoire/Photos/methode_segm.jpg",
-    "Polytech/S6/up/memoire/Photos/ex_pagination.md",
-    "Polytech/S6/up/memoire/Photos/Virtuelle.jpg",
-    "Polytech/S6/up/memoire/Photos/Pagination.jpg",
-    "Polytech/S6/up/memoire/Photos/Optimale.jpg",
-    "Polytech/S6/up/memoire/Photos/LRU.jpg",
     "Polytech/S6/up/memoire/Photos",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Ref/lm35.pdf",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Ref",
