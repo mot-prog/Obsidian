@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
+                "file": "Polytech/S6/OS/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pt4 Les applications des AOP"
+              "title": "Introduction"
             }
           }
         ]
@@ -187,6 +187,13 @@
   },
   "active": "ef313df3000eeaf6",
   "lastOpenFiles": [
+    "Polytech/S6/OS/OS.md",
+    "Polytech/S6/up/up.md",
+    "Polytech/S6/OS/Introduction.md",
+    "Polytech/S6/SD/SD.md",
+    "Polytech/S6/S6.md",
+    "Polytech/S6/OS",
+    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
     "Polytech/S6/up/memoire/Adresses et registres.md",
     "Jeremy Chan.md",
     "Obsidian CheatList.md",
@@ -197,7 +204,6 @@
     "Polytech/S6/Communication/Entretient exercice.md",
     "C/stdio/Fgets.md",
     "C/stdio/fprintf.md",
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt3 La contre réaction.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Introduction.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Ref/Sommateur non inverseur.md",
@@ -223,10 +229,6 @@
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/lm35.pdf",
     "Perso/Debian zshrc.md",
     "Polytech/S6/EG/Untitled.md",
-    "Polytech/S6/Prog SE/Prog SE.md",
-    "Commandes_Linux/lusb.md",
-    "Commandes_Linux/Commandes_Linux.md",
-    "Polytech/S6/S6.md",
     "Polytech/S6/Prog SE"
   ]
 }
