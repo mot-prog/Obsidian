@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S6/OS/Chapitre 1.md",
-                "mode": "preview",
+                "file": "C/string/strcmp.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 1"
+              "title": "strcmp"
             }
           },
           {
@@ -251,6 +251,11 @@
   },
   "active": "d70439c82db02e72",
   "lastOpenFiles": [
+    "Polytech/S6/OS/RAID.md",
+    "C/stdio/sscanf.md",
+    "C/string/strcmp.md",
+    "C/stdio/fscanf.md",
+    "Polytech/S6/OS/Chapitre 1.md",
     "Polytech/S6/OS/ref/Pasted image 20260216174239.png",
     "Polytech/S6/OS/ref/Pasted image 20260216173408.png",
     "Polytech/S6/OS/ref/Drawing 2026-02-16 17.59.35.excalidraw.md",
@@ -283,16 +288,11 @@
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Introduction.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Ref",
     "Polytech/S6/SD/TP/TP.md",
-    "C/stdio/Fgets.md",
-    "Polytech/S6/up/memoire/Mémoires.md",
-    "Polytech/S6/up/up.md",
-    "Polytech/S6/up/memoire/memoire.md",
     "Polytech/S6/up/memoire/Photos/Hiérarchie.jpg",
     "Polytech/S6/up/memoire/Photos/LRU.jpg",
     "Polytech/S6/up/memoire/Photos/Optimale.jpg",
     "Polytech/S5/Screenshot_2026-02-06-09-25-30-163_com.brave.browser-edit.jpg",
     "Polytech/S6/up/memoire/Photos/FIFO.jpg",
-    "Polytech/S6/up/memoire/Photos/methode_segm.jpg",
     "Polytech/S6/up/memoire/Photos",
     "Scripts/spell.sh",
     "Scripts/translate.sh",
