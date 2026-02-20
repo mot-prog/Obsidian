@@ -7,7 +7,7 @@ Tellement gay
 :))
 Test 
 
-[[Obsidian CheatList]]
+
 
 
 

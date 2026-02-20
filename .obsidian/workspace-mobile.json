@@ -35,12 +35,14 @@
             "id": "d70439c82db02e72",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Draw/Also.md"
+                "file": "C/string/strcmp.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Also"
+              "icon": "lucide-file",
+              "title": "strcmp"
             }
           },
           {
@@ -249,6 +251,21 @@
   },
   "active": "d70439c82db02e72",
   "lastOpenFiles": [
+    "Polytech/S6/OS/RAID.md",
+    "C/stdio/sscanf.md",
+    "C/string/strcmp.md",
+    "C/stdio/fscanf.md",
+    "Polytech/S6/OS/Chapitre 1.md",
+    "Polytech/S6/OS/ref/Pasted image 20260216174239.png",
+    "Polytech/S6/OS/ref/Pasted image 20260216173408.png",
+    "Polytech/S6/OS/ref/Drawing 2026-02-16 17.59.35.excalidraw.md",
+    "Polytech/S6/OS/ref",
+    "Commandes_Linux/photorec.md",
+    "Commandes_Linux/file.md",
+    "Commandes_Linux/df -h.md",
+    "Projets/Projets.md",
+    "Jeremy Chan.md",
+    "Draw/Also.md",
     "Perso/Chinois/Ye.md",
     "test.md",
     "C/C.md",
@@ -271,29 +288,14 @@
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Introduction.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Ref",
     "Polytech/S6/SD/TP/TP.md",
-    "C/stdio/Fgets.md",
-    "Polytech/S6/up/memoire/Mémoires.md",
-    "Polytech/S6/up/up.md",
-    "Polytech/S6/up/memoire/memoire.md",
     "Polytech/S6/up/memoire/Photos/Hiérarchie.jpg",
-    "Polytech/Polytech.md",
-    "Perso/Chinois/laogon.md",
-    "Polytech/S6/up/memoire/Photos/ex_pagination.md",
     "Polytech/S6/up/memoire/Photos/LRU.jpg",
     "Polytech/S6/up/memoire/Photos/Optimale.jpg",
     "Polytech/S5/Screenshot_2026-02-06-09-25-30-163_com.brave.browser-edit.jpg",
     "Polytech/S6/up/memoire/Photos/FIFO.jpg",
-    "Polytech/S6/up/memoire/Photos/methode_segm.jpg",
-    "Polytech/S6/up/memoire/Photos/Pagination.jpg",
-    "Draw/Page.md",
-    "Polytech/S6/up/memoire/Drawing 2026-02-02 16.15.18.excalidraw.md",
-    "Polytech/S6/SD/SD.md",
-    "Commandes_Linux/Commandes_Linux.md",
-    "Commandes_Linux/TOP.md",
     "Polytech/S6/up/memoire/Photos",
     "Scripts/spell.sh",
     "Scripts/translate.sh",
-    "Scripts/def.sh",
-    "Scripts"
+    "Scripts/def.sh"
   ]
 }
