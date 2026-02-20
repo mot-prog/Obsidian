@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S6/OS/RAID.md",
+                "file": "C/gdb (Debugging).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAID"
+              "title": "gdb (Debugging)"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "communication",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,8 +216,12 @@
   },
   "active": "9a37d83a720321d9",
   "lastOpenFiles": [
-    "Polytech/S6/OS/ref/Drawing 2026-02-16 17.59.35.excalidraw.md",
+    "C/C.md",
+    "C/gdb (Debugging).md",
+    "Polytech/S6/Communication/Outils de Communication.md",
+    "Polytech/S6/Prog SE/Connecteurs USB.md",
     "Polytech/S6/OS/RAID.md",
+    "Polytech/S6/OS/ref/Drawing 2026-02-16 17.59.35.excalidraw.md",
     "Commandes_Linux/df -h.md",
     "Commandes_Linux/Commandes_Linux.md",
     "Commandes_Linux/photorec.md",
@@ -251,11 +255,7 @@
     "Obsidian CheatList.md",
     "Drawing 2026-02-14 16.22.50.excalidraw.md",
     "Polytech/S6/SD/TP/TP3_debugging/README.md",
-    "Polytech/S6/Communication/Outils de Communication.md",
     "Polytech/S6/Communication/Technique en entretient.md",
-    "Polytech/S6/Communication/Entretient exercice.md",
-    "C/stdio/Fgets.md",
-    "C/stdio/fprintf.md",
     "Polytech/S6/up/memoire/Ref",
     "Polytech/S6/up/memoire/Photos",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Ref/lm35.pdf",
