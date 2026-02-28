@@ -1,70 +1,41 @@
 {
   "main": {
-    "id": "729a4c6b02fed16c",
+    "id": "83cf776d440faa21",
     "type": "split",
     "children": [
       {
-        "id": "0d4e20423c3ff5d1",
+        "id": "5aa1a0c4a6760bb6",
         "type": "tabs",
         "children": [
           {
-            "id": "ef313df3000eeaf6",
+            "id": "babed1af3fe0d1d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commandes_Linux/df -h.md",
-                "mode": "source",
+                "file": "Git/git submodule add.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "df -h"
-            }
-          },
-          {
-            "id": "97da905ce6da2d18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polytech/S6/OS/RAID.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RAID"
-            }
-          },
-          {
-            "id": "9a37d83a720321d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/gdb (Debugging).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gdb (Debugging)"
+              "title": "git submodule add"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5b043f780ffd0222",
+    "id": "b75bc8d11fc532bf",
     "type": "split",
     "children": [
       {
-        "id": "effb1f657cdeb5e2",
+        "id": "80e3288b18618893",
         "type": "tabs",
         "children": [
           {
-            "id": "0c8b0701259ba287",
+            "id": "7da560069fa14710",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,12 +48,12 @@
             }
           },
           {
-            "id": "ba563a8a0aa9529b",
+            "id": "02fb2369d3fba22b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "communication",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "93892be4d5be59cb",
+            "id": "8a063c55075fd05a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "18aaf8a78d7fa3c0",
+    "id": "8af0e1c63929750b",
     "type": "split",
     "children": [
       {
-        "id": "d52fda1e9acd9bea",
+        "id": "de6f805c523a3f3a",
         "type": "tabs",
         "children": [
           {
-            "id": "3befbfba95bd560a",
+            "id": "438554a923b0a9f3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polytech/S6/Prog SE/Connecteurs USB.md",
+                "file": "Commandes_Linux/Mkdir -p.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Connecteurs USB"
+              "title": "Backlinks for Mkdir -p"
             }
           },
           {
-            "id": "1a59b138d92afd2d",
+            "id": "2e0dc42d5587ad41",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polytech/S6/Prog SE/Connecteurs USB.md",
+                "file": "Commandes_Linux/Mkdir -p.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Connecteurs USB"
+              "title": "Outgoing links from Mkdir -p"
             }
           },
           {
-            "id": "3a470a0536cdc910",
+            "id": "cd71cabc483ce6ac",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,7 +137,7 @@
             }
           },
           {
-            "id": "7cd358b6e66aa183",
+            "id": "3913907d8be3bb1e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,18 +151,18 @@
             }
           },
           {
-            "id": "c940e0fda3716791",
+            "id": "c212795a66bfa7eb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polytech/S6/Prog SE/Connecteurs USB.md",
+                "file": "Commandes_Linux/Mkdir -p.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Connecteurs USB"
+              "title": "Outline of Mkdir -p"
             }
           }
         ]
@@ -214,53 +185,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9a37d83a720321d9",
+  "active": "babed1af3fe0d1d4",
   "lastOpenFiles": [
-    "C/C.md",
-    "C/gdb (Debugging).md",
-    "Polytech/S6/Communication/Outils de Communication.md",
-    "Polytech/S6/Prog SE/Connecteurs USB.md",
-    "Polytech/S6/OS/RAID.md",
-    "Polytech/S6/OS/ref/Drawing 2026-02-16 17.59.35.excalidraw.md",
-    "Commandes_Linux/df -h.md",
-    "Commandes_Linux/Commandes_Linux.md",
-    "Commandes_Linux/photorec.md",
-    "Polytech/S6/OS/Chapitre 1.md",
-    "Commandes_Linux/file.md",
-    "Commandes_Linux/attr.md",
-    "Polytech/S6/OS/ref/Pasted image 20260216174239.png",
-    "Polytech/S6/OS/OS.md",
-    "Polytech/S6/OS/ref",
-    "Polytech/S6/OS/ref/Pasted image 20260216173408.png",
-    "Pasted image 20260216173113 2.png",
-    "Pasted image 20260216173113 3.png",
-    "Pasted image 20260216173113 4.png",
-    "Pasted image 20260216173113 5.png",
-    "Pasted image 20260216173113 6.png",
-    "Pasted image 20260216173113 7.png",
-    "Pasted image 20260216173113 8.png",
-    "Pasted image 20260216173114.png",
-    "Polytech/S6/OS/Introduction.md",
-    "Perso/autoclicker.py",
-    "Perso/autoclicker.md",
+    "Git/git clone --recursive.md",
+    "Git/git restore folder.md",
     "Excalidraw/Drawing 2026-02-14 16.26.42.excalidraw.md",
     "Excalidraw",
-    "Polytech/S6/up/up.md",
-    "Polytech/S6/SD/SD.md",
-    "Polytech/S6/S6.md",
-    "Polytech/S6/OS",
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
-    "Polytech/S6/up/memoire/Adresses et registres.md",
-    "Jeremy Chan.md",
-    "Obsidian CheatList.md",
-    "Drawing 2026-02-14 16.22.50.excalidraw.md",
-    "Polytech/S6/SD/TP/TP3_debugging/README.md",
-    "Polytech/S6/Communication/Technique en entretient.md",
-    "Polytech/S6/up/memoire/Ref",
-    "Polytech/S6/up/memoire/Photos",
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Ref/lm35.pdf",
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Ref",
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/lm35.pdf",
-    "Polytech/S6/Prog SE"
+    "Commandes_Linux/photorec.md",
+    "Commandes_Linux/file.md",
+    "Commandes_Linux/df -h.md",
+    "C/string/strcmp.md",
+    "C/gdb (Debugging).md",
+    "Commandes_Linux/mediainfo.md",
+    "Commandes_Linux/Mkdir -p.md",
+    "Commandes_Linux/TOP.md",
+    "Polytech/S6/SD/TP/TP3_debugging/q2-tableau",
+    "Polytech/S6/OS/ref/Pasted image 20260216174239.png",
+    "Polytech/S6/OS/ref/Pasted image 20260216173408.png",
+    "Polytech/S6/OS/ref/Drawing 2026-02-16 17.59.35.excalidraw.md",
+    "Polytech/S6/OS/ref",
+    "Polytech/S6/OS/RAID.md",
+    "Polytech/S6/OS/OS.md",
+    "Polytech/S6/OS/Introduction.md",
+    "Polytech/S6/OS/Chapitre 1.md",
+    "Polytech/S6/OS"
   ]
 }
