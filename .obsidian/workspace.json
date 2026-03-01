@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git clone --recursive.md",
+                "file": "C/gdb (Debugging).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git clone --recursive"
+              "title": "gdb (Debugging)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8af0e1c63929750b",
@@ -187,10 +188,12 @@
   },
   "active": "babed1af3fe0d1d4",
   "lastOpenFiles": [
+    "C/Makefile.md",
+    "C/C.md",
+    "Git/git clone --recursive.md",
     "Git/git rm -r.md",
     "Git/push --set-upstream.md",
     "Git/git submodule add.md",
-    "Git/git clone --recursive.md",
     "Git/git restore folder.md",
     "Excalidraw/Drawing 2026-02-14 16.26.42.excalidraw.md",
     "Excalidraw",
