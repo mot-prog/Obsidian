@@ -11,14 +11,12 @@
             "id": "babed1af3fe0d1d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "C/gdb (Debugging).md",
-                "mode": "preview",
-                "source": false
+                "file": "Polytech/S6/SDA/TP/01-alloc.pdf"
               },
-              "icon": "lucide-file",
-              "title": "gdb (Debugging)"
+              "icon": "lucide-file-text",
+              "title": "01-alloc"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8af0e1c63929750b",
@@ -188,8 +185,10 @@
   },
   "active": "babed1af3fe0d1d4",
   "lastOpenFiles": [
-    "C/Makefile.md",
+    "C/Isspace.md",
     "C/C.md",
+    "C/gdb (Debugging).md",
+    "C/Makefile.md",
     "Git/git clone --recursive.md",
     "Git/git rm -r.md",
     "Git/push --set-upstream.md",
@@ -201,7 +200,6 @@
     "Commandes_Linux/file.md",
     "Commandes_Linux/df -h.md",
     "C/string/strcmp.md",
-    "C/gdb (Debugging).md",
     "Commandes_Linux/mediainfo.md",
     "Commandes_Linux/Mkdir -p.md",
     "Commandes_Linux/TOP.md",
