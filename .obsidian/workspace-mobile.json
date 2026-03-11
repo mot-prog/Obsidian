@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/string/strcmp.md",
+                "file": "Commandes_Linux/lusb.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "strcmp"
+              "title": "lusb"
             }
           },
           {
@@ -191,7 +191,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Circuits_de_conditionnements pt2.md",
+            "file": "Polytech/S6/Prog SE/Ordre code.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -251,9 +251,17 @@
   },
   "active": "d70439c82db02e72",
   "lastOpenFiles": [
+    "C/C.md",
+    "Polytech/S6/Prog SE/Ordre code.md",
+    "Polytech/S6/up/memoire/Adresses et registres.md",
+    "Commandes_Linux/Commandes_Linux.md",
+    "Commandes_Linux/lusb.md",
+    "Polytech/S6/Prog SE/Connecteurs USB.md",
+    "Polytech/S6/Prog SE/Prog SE.md",
+    "C/gdb (Debugging).md",
+    "C/string/strcmp.md",
     "Polytech/S6/OS/RAID.md",
     "C/stdio/sscanf.md",
-    "C/string/strcmp.md",
     "C/stdio/fscanf.md",
     "Polytech/S6/OS/Chapitre 1.md",
     "Polytech/S6/OS/ref/Pasted image 20260216174239.png",
@@ -268,26 +276,18 @@
     "Draw/Also.md",
     "Perso/Chinois/Ye.md",
     "test.md",
-    "C/C.md",
     "Excalidraw/Drawing 2026-02-14 16.26.42.excalidraw.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Circuits_de_conditionnements pt2.md",
     "Excalidraw",
-    "Polytech/S6/Prog SE/Prog SE.md",
-    "Polytech/S6/Prog SE/Connecteurs USB.md",
     "Polytech/S6/Prog SE",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Circuits_de_conditionnements pt1.md",
-    "Polytech/S6/up/memoire/Adresses et registres.md",
     "Polytech/S6/up/memoire/Photos/Belady.jpg",
     "Polytech/S6/up/memoire/Gestionnaire Mémoire.md",
-    "Polytech/S6/up/memoire/Mémoire virtuelle.md",
     "Polytech/S6/up/memoire/Ref/model-mem.png",
-    "Polytech/S6/up/memoire/pile.md",
     "Polytech/S6/up/memoire/Ref/ex1.png",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Ref/lm35.pdf",
     "Polytech/S6/up/memoire/Ref",
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Introduction.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Ref",
-    "Polytech/S6/SD/TP/TP.md",
     "Polytech/S6/up/memoire/Photos/Hiérarchie.jpg",
     "Polytech/S6/up/memoire/Photos/LRU.jpg",
     "Polytech/S6/up/memoire/Photos/Optimale.jpg",

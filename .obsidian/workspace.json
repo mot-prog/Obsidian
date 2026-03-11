@@ -11,14 +11,12 @@
             "id": "babed1af3fe0d1d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Git/git clone --recursive.md",
-                "mode": "preview",
-                "source": false
+                "file": "Polytech/S6/SDA/TP/01-alloc.pdf"
               },
-              "icon": "lucide-file",
-              "title": "git clone --recursive"
+              "icon": "lucide-file-text",
+              "title": "01-alloc"
             }
           },
           {
@@ -200,10 +198,14 @@
   },
   "active": "ca1017b12898d544",
   "lastOpenFiles": [
+    "C/Isspace.md",
+    "C/C.md",
+    "C/gdb (Debugging).md",
+    "C/Makefile.md",
+    "Git/git clone --recursive.md",
     "Git/git rm -r.md",
     "Git/push --set-upstream.md",
     "Git/git submodule add.md",
-    "Git/git clone --recursive.md",
     "Git/git restore folder.md",
     "Excalidraw/Drawing 2026-02-14 16.26.42.excalidraw.md",
     "Excalidraw",
@@ -211,7 +213,6 @@
     "Commandes_Linux/file.md",
     "Commandes_Linux/df -h.md",
     "C/string/strcmp.md",
-    "C/gdb (Debugging).md",
     "Commandes_Linux/mediainfo.md",
     "Commandes_Linux/Mkdir -p.md",
     "Commandes_Linux/TOP.md",
