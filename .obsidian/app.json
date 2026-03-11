@@ -1,4 +1,7 @@
 {
   "alwaysUpdateLinks": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "newFileLocation": "root",
+  "newFileFolderPath": "imprecr",
+  "attachmentFolderPath": "imprecr"
 }

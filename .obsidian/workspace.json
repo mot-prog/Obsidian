@@ -11,24 +11,28 @@
             "id": "babed1af3fe0d1d4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Polytech/S6/SDA/TP/01-alloc.pdf"
+                "file": "Git/git clone --recursive.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "01-alloc"
+              "icon": "lucide-file",
+              "title": "git clone --recursive"
             }
           },
           {
             "id": "ca1017b12898d544",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "Perso/Debian zshrc.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "Debian zshrc"
             }
           }
         ],
@@ -64,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "commandetr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,33 +202,49 @@
   },
   "active": "ca1017b12898d544",
   "lastOpenFiles": [
+    "Polytech/S6/SDA/binary",
+    "Polytech/S6/SDA/binary.c",
+    "Polytech/S6/SDA/TD",
+    "Commandes_Linux/diff.md",
+    "Commandes_Linux/Commandes_Linux.md",
+    "Commandes_Linux/cut.md",
+    "Commandes_Linux/tr.md",
+    "imprecr/Pasted image 20260311093852.png",
+    "Commandes_Linux/Less - more.md",
+    "Commandes_Linux/Sorties.md",
+    "imprecr/Pasted image 20260311094425.png",
+    "imprecr/Pasted image 20260311094411.png",
+    "Pasted image 20260311094329.png",
+    "Pasted image 20260311094252.png",
+    "Polytech/S6/up/memoire/Ref/ex1-c.png",
+    "imprecr",
+    "Perso/Connexion sur machines de l'école via SSH.md",
+    "Perso/Perso.md",
+    "Perso/Debian zshrc.md",
+    "Perso/Android zshrc.md",
+    "Perso/sync.sh.md",
+    "Perso/Qualité et défaut.md",
+    "Perso/Manjaro zshrc.md",
+    "Obsidian CheatList.md",
+    "Perso/Debian-zshrc.md",
+    "Commandes_Linux/ls -l.md",
+    "Commandes_Linux/whoami - id.md",
+    "Polytech/S6/OS/RAID.md",
+    "Polytech/S6/OS/Introduction.md",
+    "Polytech/S6/OS/Chapitre 1.md",
+    "Polytech/S6/SDA/TP/build/alloc",
+    "Polytech/S6/SDA/TP/english-sorted.dict",
+    "Polytech/S6/SDA/TP/english-reverse.dict",
+    "Polytech/S6/SDA/TP/english-rand.dict",
+    "Polytech/S6/SDA/TP/build",
+    "Polytech/S6/SDA/TP/alloc.c",
+    "Polytech/S6/SDA/TP/03-dictionaries.pdf",
+    "Polytech/S6/Prog SE/Ordre code.md",
     "C/Isspace.md",
-    "C/C.md",
-    "C/gdb (Debugging).md",
-    "C/Makefile.md",
-    "Git/git clone --recursive.md",
     "Git/git rm -r.md",
     "Git/push --set-upstream.md",
     "Git/git submodule add.md",
-    "Git/git restore folder.md",
-    "Excalidraw/Drawing 2026-02-14 16.26.42.excalidraw.md",
-    "Excalidraw",
-    "Commandes_Linux/photorec.md",
-    "Commandes_Linux/file.md",
-    "Commandes_Linux/df -h.md",
-    "C/string/strcmp.md",
-    "Commandes_Linux/mediainfo.md",
-    "Commandes_Linux/Mkdir -p.md",
-    "Commandes_Linux/TOP.md",
-    "Polytech/S6/SD/TP/TP3_debugging/q2-tableau",
     "Polytech/S6/OS/ref/Pasted image 20260216174239.png",
-    "Polytech/S6/OS/ref/Pasted image 20260216173408.png",
-    "Polytech/S6/OS/ref/Drawing 2026-02-16 17.59.35.excalidraw.md",
-    "Polytech/S6/OS/ref",
-    "Polytech/S6/OS/RAID.md",
-    "Polytech/S6/OS/OS.md",
-    "Polytech/S6/OS/Introduction.md",
-    "Polytech/S6/OS/Chapitre 1.md",
-    "Polytech/S6/OS"
+    "Polytech/S6/OS/ref/Pasted image 20260216173408.png"
   ]
 }
