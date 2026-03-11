@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "git clone --recursive"
             }
+          },
+          {
+            "id": "ca1017b12898d544",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +198,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "babed1af3fe0d1d4",
+  "active": "ca1017b12898d544",
   "lastOpenFiles": [
     "Git/git rm -r.md",
     "Git/push --set-upstream.md",
