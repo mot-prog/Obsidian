@@ -11,10 +11,12 @@
             "id": "e552ddc107117888",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Polytech/S6/TS/Eléments de TS.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Eléments de TS"
             }
           }
         ]
