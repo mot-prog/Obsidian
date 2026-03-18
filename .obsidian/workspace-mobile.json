@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commandes_Linux/lusb.md",
+                "file": "SDA/TP.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "lusb"
+              "title": "TP"
             }
           },
           {
@@ -251,11 +251,14 @@
   },
   "active": "d70439c82db02e72",
   "lastOpenFiles": [
+    "C/Valgrind (debugging).md",
+    "SDA/TP.md",
+    "SDA",
+    "Commandes_Linux/lusb.md",
     "C/C.md",
     "Polytech/S6/Prog SE/Ordre code.md",
     "Polytech/S6/up/memoire/Adresses et registres.md",
     "Commandes_Linux/Commandes_Linux.md",
-    "Commandes_Linux/lusb.md",
     "Polytech/S6/Prog SE/Connecteurs USB.md",
     "Polytech/S6/Prog SE/Prog SE.md",
     "C/gdb (Debugging).md",
@@ -280,9 +283,7 @@
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Circuits_de_conditionnements pt2.md",
     "Excalidraw",
     "Polytech/S6/Prog SE",
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Circuits_de_conditionnements pt1.md",
     "Polytech/S6/up/memoire/Photos/Belady.jpg",
-    "Polytech/S6/up/memoire/Gestionnaire Mémoire.md",
     "Polytech/S6/up/memoire/Ref/model-mem.png",
     "Polytech/S6/up/memoire/Ref/ex1.png",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/Ref/lm35.pdf",
@@ -295,7 +296,6 @@
     "Polytech/S6/up/memoire/Photos/FIFO.jpg",
     "Polytech/S6/up/memoire/Photos",
     "Scripts/spell.sh",
-    "Scripts/translate.sh",
-    "Scripts/def.sh"
+    "Scripts/translate.sh"
   ]
 }
