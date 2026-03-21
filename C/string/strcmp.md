@@ -3,7 +3,11 @@ To compare two string
 >[!example] If
 >```c
 >char* a,b;
->if (!strcmp(a,b)){}```
+>if (!strcmp(a,b)){}
+>```
 
-We enter the condition if `a==b`.
+	•  0, if the a and b are equal;  
 
+	•  -1, if a is less than b;  
+
+	•  1, if a is greater than b.

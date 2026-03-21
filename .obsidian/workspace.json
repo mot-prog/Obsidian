@@ -1,29 +1,24 @@
 {
   "main": {
-    "id": "83cf776d440faa21",
+    "id": "ed98f09a53bb5a2e",
     "type": "split",
     "children": [
       {
-        "id": "0e347aef58df5386",
+        "id": "773a3db9c3470883",
         "type": "tabs",
         "children": [
           {
-            "id": "e552ddc107117888",
+            "id": "fc45bac7c6b17085",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Draw/Page.md"
+                "file": "C/string/strcmp.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Page"
-=======
-                "file": "Polytech/S6/TS/Eléments de TS.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Eléments de TS"
->>>>>>> 6842e12e0e9c7fab57fd477ebba114e7d93b4e4f
+              "icon": "lucide-file",
+              "title": "strcmp"
             }
           }
         ]
@@ -32,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b75bc8d11fc532bf",
+    "id": "28a50a9a78fa880b",
     "type": "split",
     "children": [
       {
-        "id": "80e3288b18618893",
+        "id": "67703c83aef7f036",
         "type": "tabs",
         "children": [
           {
-            "id": "7da560069fa14710",
+            "id": "6e08fcfedf643ef0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -53,12 +48,12 @@
             }
           },
           {
-            "id": "02fb2369d3fba22b",
+            "id": "e5ec283e23a5a237",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "commandetr",
+                "query": "valg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +65,7 @@
             }
           },
           {
-            "id": "8a063c55075fd05a",
+            "id": "ecda5fcacb8bc290",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "8af0e1c63929750b",
+    "id": "39a9caa7c5a6e6b5",
     "type": "split",
     "children": [
       {
-        "id": "de6f805c523a3f3a",
+        "id": "a4eea71a70d4eae7",
         "type": "tabs",
         "children": [
           {
-            "id": "438554a923b0a9f3",
+            "id": "d62db89a5e7f64b7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commandes_Linux/Mkdir -p.md",
+                "file": "C/string/strcmp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mkdir -p"
+              "title": "Backlinks for strcmp"
             }
           },
           {
-            "id": "2e0dc42d5587ad41",
+            "id": "71d189fac0b141e8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commandes_Linux/Mkdir -p.md",
+                "file": "C/string/strcmp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mkdir -p"
+              "title": "Outgoing links from strcmp"
             }
           },
           {
-            "id": "cd71cabc483ce6ac",
+            "id": "993c2b7a9cc75242",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +137,7 @@
             }
           },
           {
-            "id": "3913907d8be3bb1e",
+            "id": "629c8bfcf03df238",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,18 +151,18 @@
             }
           },
           {
-            "id": "c212795a66bfa7eb",
+            "id": "100804ecf40f56f6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commandes_Linux/Mkdir -p.md",
+                "file": "C/string/strcmp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mkdir -p"
+              "title": "Outline of strcmp"
             }
           }
         ]
@@ -190,89 +185,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "7da560069fa14710",
+  "active": "fc45bac7c6b17085",
   "lastOpenFiles": [
-    "Draw/thanks.md",
-    "Perso/Chinois/xiexie.md",
-    "Excalidraw/Drawing 2026-02-14 16.26.42.excalidraw.md",
-    "Perso/Chinois/Nu er.md",
-    "Perso/Chinois/laogon.md",
-    "Perso/Chinois/Chinois.md",
-    "Polytech/S6/up/memoire/Adresses et registres.md",
-    "Polytech/S6/up/memoire/Gestionnaire Mémoire.md",
-    "Polytech/S6/Prog SE/Ordre code.md",
-    "Polytech/S6/Prog SE/Prog SE.md",
-    "Polytech/S6/SDA/TP/01-alloc.pdf",
-    "C/Isspace.md",
-    "C/C.md",
-    "C/gdb (Debugging).md",
-    "C/Makefile.md",
-    "Git/git clone --recursive.md",
-    "Git/git rm -r.md",
-    "Git/push --set-upstream.md",
-    "Git/git submodule add.md",
-    "Git/git restore folder.md",
-    "Excalidraw",
-    "Commandes_Linux/photorec.md",
-    "Commandes_Linux/file.md",
-    "Commandes_Linux/df -h.md",
-    "C/string/strcmp.md",
-    "Commandes_Linux/mediainfo.md",
-    "Commandes_Linux/Mkdir -p.md",
-    "Commandes_Linux/TOP.md",
-    "Polytech/S6/SD/TP/TP3_debugging/q2-tableau",
-    "Polytech/S6/OS/ref/Pasted image 20260216174239.png",
-    "Polytech/S6/OS/ref/Pasted image 20260216173408.png",
-    "Polytech/S6/OS/ref",
-    "Polytech/S6/OS"
-=======
-  "active": "e552ddc107117888",
-  "lastOpenFiles": [
-    "Git/git clone --recursive.md",
-    "Polytech/S6/SD/SD.md",
-    "Perso/Perso.md",
-    "Polytech/S6/Compilation/Compilation.md",
-    "Polytech/Polytech.md",
-    "Polytech/S6/CN/CN.md",
-    "Polytech/S6/S6.md",
-    "Polytech/S6/Compilation/Chaîne de compilation.md",
-    "Polytech/S6/Compilation/Untitled.md",
-    "Polytech/S5/C/PS/tp/tp3/main",
-    "Polytech/S5/C/PS/tp/tp3/*.o",
-    "Polytech/S5/C/PS/tp/tp6/makefile",
-    "Polytech/S5/C/PS/tp/tp6/Makefile",
-    "Polytech/S5/C/PS/tp/tp6/MAKEFILE",
-    "Polytech/S6/up/memoire/Adresses et registres.md",
-    "Polytech/S6/up/memoire/Mémoire virtuelle.md",
-    "Polytech/S6/SDA/TP/01-alloc.pdf",
-    "Polytech/S6/SDA/TP/02-lists.pdf",
-    "Polytech/S6/SDA/TP/03-dictionaries.pdf",
-    "Obsidian CheatList.md",
-    "Polytech/S6/up/memoire/Gestionnaire Mémoire.md",
-    "Polytech/S6/up/memoire/Mémoires.md",
-    "Polytech/S6/up/memoire/pile.md",
-    "Polytech/S6/Compilation",
-    "Perso/Debian zshrc.md",
-    "Polytech/S6/SDA/binary",
-    "Commandes_Linux/diff.md",
-    "Commandes_Linux/Commandes_Linux.md",
-    "Commandes_Linux/cut.md",
-    "Commandes_Linux/tr.md",
-    "imprecr/Pasted image 20260311093852.png",
-    "Commandes_Linux/Less - more.md",
-    "Commandes_Linux/Sorties.md",
-    "imprecr/Pasted image 20260311094425.png",
-    "imprecr/Pasted image 20260311094411.png",
-    "Pasted image 20260311094329.png",
-    "Pasted image 20260311094252.png",
-    "Polytech/S6/up/memoire/Ref/ex1-c.png",
-    "Perso/Connexion sur machines de l'école via SSH.md",
-    "Perso/Android zshrc.md",
-    "Perso/sync.sh.md",
-    "Perso/Qualité et défaut.md",
-    "Polytech/S6/OS/ref/Pasted image 20260216174239.png",
-    "Polytech/S6/OS/ref/Pasted image 20260216173408.png"
->>>>>>> 6842e12e0e9c7fab57fd477ebba114e7d93b4e4f
+    "C/Valgrind (debugging).md",
+    "Polytech/S6/SDA/TP/tes",
+    "Polytech/S6/SDA/TP/test.c",
+    "C/C.md"
   ]
 }
