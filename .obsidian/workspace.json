@@ -4,19 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "5aa1a0c4a6760bb6",
+        "id": "0e347aef58df5386",
         "type": "tabs",
         "children": [
           {
-            "id": "babed1af3fe0d1d4",
+            "id": "e552ddc107117888",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
+<<<<<<< HEAD
                 "file": "Draw/Page.md"
               },
               "icon": "excalidraw-icon",
               "title": "Page"
+=======
+                "file": "Polytech/S6/TS/Eléments de TS.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Eléments de TS"
+>>>>>>> 6842e12e0e9c7fab57fd477ebba114e7d93b4e4f
             }
           }
         ]
@@ -51,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "commandetr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,6 +190,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "7da560069fa14710",
   "lastOpenFiles": [
     "Draw/thanks.md",
@@ -218,5 +226,53 @@
     "Polytech/S6/OS/ref/Pasted image 20260216173408.png",
     "Polytech/S6/OS/ref",
     "Polytech/S6/OS"
+=======
+  "active": "e552ddc107117888",
+  "lastOpenFiles": [
+    "Git/git clone --recursive.md",
+    "Polytech/S6/SD/SD.md",
+    "Perso/Perso.md",
+    "Polytech/S6/Compilation/Compilation.md",
+    "Polytech/Polytech.md",
+    "Polytech/S6/CN/CN.md",
+    "Polytech/S6/S6.md",
+    "Polytech/S6/Compilation/Chaîne de compilation.md",
+    "Polytech/S6/Compilation/Untitled.md",
+    "Polytech/S5/C/PS/tp/tp3/main",
+    "Polytech/S5/C/PS/tp/tp3/*.o",
+    "Polytech/S5/C/PS/tp/tp6/makefile",
+    "Polytech/S5/C/PS/tp/tp6/Makefile",
+    "Polytech/S5/C/PS/tp/tp6/MAKEFILE",
+    "Polytech/S6/up/memoire/Adresses et registres.md",
+    "Polytech/S6/up/memoire/Mémoire virtuelle.md",
+    "Polytech/S6/SDA/TP/01-alloc.pdf",
+    "Polytech/S6/SDA/TP/02-lists.pdf",
+    "Polytech/S6/SDA/TP/03-dictionaries.pdf",
+    "Obsidian CheatList.md",
+    "Polytech/S6/up/memoire/Gestionnaire Mémoire.md",
+    "Polytech/S6/up/memoire/Mémoires.md",
+    "Polytech/S6/up/memoire/pile.md",
+    "Polytech/S6/Compilation",
+    "Perso/Debian zshrc.md",
+    "Polytech/S6/SDA/binary",
+    "Commandes_Linux/diff.md",
+    "Commandes_Linux/Commandes_Linux.md",
+    "Commandes_Linux/cut.md",
+    "Commandes_Linux/tr.md",
+    "imprecr/Pasted image 20260311093852.png",
+    "Commandes_Linux/Less - more.md",
+    "Commandes_Linux/Sorties.md",
+    "imprecr/Pasted image 20260311094425.png",
+    "imprecr/Pasted image 20260311094411.png",
+    "Pasted image 20260311094329.png",
+    "Pasted image 20260311094252.png",
+    "Polytech/S6/up/memoire/Ref/ex1-c.png",
+    "Perso/Connexion sur machines de l'école via SSH.md",
+    "Perso/Android zshrc.md",
+    "Perso/sync.sh.md",
+    "Perso/Qualité et défaut.md",
+    "Polytech/S6/OS/ref/Pasted image 20260216174239.png",
+    "Polytech/S6/OS/ref/Pasted image 20260216173408.png"
+>>>>>>> 6842e12e0e9c7fab57fd477ebba114e7d93b4e4f
   ]
 }
