@@ -11,12 +11,12 @@
             "id": "babed1af3fe0d1d4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Polytech/S6/SDA/TP/01-alloc.pdf"
+                "file": "Draw/Page.md"
               },
-              "icon": "lucide-file-text",
-              "title": "01-alloc"
+              "icon": "excalidraw-icon",
+              "title": "Page"
             }
           }
         ]
@@ -183,8 +183,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "babed1af3fe0d1d4",
+  "active": "7da560069fa14710",
   "lastOpenFiles": [
+    "Draw/thanks.md",
+    "Perso/Chinois/xiexie.md",
+    "Excalidraw/Drawing 2026-02-14 16.26.42.excalidraw.md",
+    "Perso/Chinois/Nu er.md",
+    "Perso/Chinois/laogon.md",
+    "Perso/Chinois/Chinois.md",
+    "Polytech/S6/up/memoire/Adresses et registres.md",
+    "Polytech/S6/up/memoire/Gestionnaire Mémoire.md",
+    "Polytech/S6/Prog SE/Ordre code.md",
+    "Polytech/S6/Prog SE/Prog SE.md",
+    "Polytech/S6/SDA/TP/01-alloc.pdf",
     "C/Isspace.md",
     "C/C.md",
     "C/gdb (Debugging).md",
@@ -194,7 +205,6 @@
     "Git/push --set-upstream.md",
     "Git/git submodule add.md",
     "Git/git restore folder.md",
-    "Excalidraw/Drawing 2026-02-14 16.26.42.excalidraw.md",
     "Excalidraw",
     "Commandes_Linux/photorec.md",
     "Commandes_Linux/file.md",
@@ -206,12 +216,7 @@
     "Polytech/S6/SD/TP/TP3_debugging/q2-tableau",
     "Polytech/S6/OS/ref/Pasted image 20260216174239.png",
     "Polytech/S6/OS/ref/Pasted image 20260216173408.png",
-    "Polytech/S6/OS/ref/Drawing 2026-02-16 17.59.35.excalidraw.md",
     "Polytech/S6/OS/ref",
-    "Polytech/S6/OS/RAID.md",
-    "Polytech/S6/OS/OS.md",
-    "Polytech/S6/OS/Introduction.md",
-    "Polytech/S6/OS/Chapitre 1.md",
     "Polytech/S6/OS"
   ]
 }
