@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/string/strcmp.md",
+                "file": "C/string/strtok.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "strcmp"
+              "title": "strtok"
             }
           }
         ]
@@ -187,6 +187,9 @@
   },
   "active": "fc45bac7c6b17085",
   "lastOpenFiles": [
+    "C/string/string.md",
+    "C/string/strtok.md",
+    "C/string/strcmp.md",
     "C/Valgrind (debugging).md",
     "Polytech/S6/SDA/TP/tes",
     "Polytech/S6/SDA/TP/test.c",

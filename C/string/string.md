@@ -4,5 +4,6 @@
 %% Begin Waypoint %%
 - [[strcmp]]
 - [[strcpy]]
+- [[strtok]]
 
 %% End Waypoint %%
