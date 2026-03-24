@@ -1,3 +1,4 @@
+#key #ssh
 >[!example] Sur Android dans Termux
 ```bash
 pkg install openssh
