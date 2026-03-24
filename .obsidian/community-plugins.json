@@ -3,5 +3,7 @@
   "waypoint",
   "obsidian-excalidraw-plugin",
   "folder-notes",
-  "code-styler"
+  "code-styler",
+  "obsidian-pandoc",
+  "floating-toc"
 ]

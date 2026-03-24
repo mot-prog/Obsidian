@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "773a3db9c3470883",
+        "id": "a128907a25c9d6f5",
         "type": "tabs",
         "children": [
           {
-            "id": "fc45bac7c6b17085",
+            "id": "540fcafa1a904664",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/string/strtok.md",
-                "mode": "preview",
+                "file": "Polytech/S6/EG/TP/Préparation 1.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "strtok"
+              "title": "Préparation 1"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "valg",
+                "query": "pando",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/string/strcmp.md",
+                "file": "Polytech/S6/EG/TP/Préparation 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for strcmp"
+              "title": "Backlinks for Préparation 1"
             }
           },
           {
@@ -185,14 +185,42 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fc45bac7c6b17085",
+  "active": "540fcafa1a904664",
   "lastOpenFiles": [
-    "C/string/string.md",
+    "Polytech/S6/EG/TP/EAG.pdf",
+    "Polytech/S6/EG/TP/datasheets/EAG_prep1.pdf",
+    "Polytech/S6/EG/TP/datasheets/L-53HD.pdf",
+    "Polytech/S6/EG/TP/datasheets/L-934GD-5V.pdf",
+    "Polytech/S6/EG/TP/datasheets/1N4148.pdf",
+    "Polytech/S6/EG/TP/datasheets/L-93DP3C.pdf",
+    "Polytech/S6/EG/TP/datasheets/BC546B.pdf",
+    "Polytech/S6/EG/TP/datasheets",
+    "Polytech/S6/EG/TP/Préparation 1.tex",
+    "Polytech/S6/EG/TP/Untitled.md",
+    "Polytech/S6/EG/TP/Préparation 1.md",
+    "Polytech/S6/EG/TP/TP.md",
+    "Polytech/Polytech.md",
+    "A-bloc-émetteur-ir.md",
+    "Draw/DDC_fummée.md",
+    "imprecr/Beta transistor  prep.png",
+    "imprecr/VBE sat prep1.png",
+    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt1 Circuits_de_conditionnements.md",
+    "imprecr/powermax_transistor.png",
+    "imprecr/Pasted image 20260324020249.png",
+    "Obsidian CheatList.md",
+    "imprecr/VminIRLED.png",
+    "imprecr/VminLEDROUGE.png",
+    "imprecr/VminLEDVERTE.png",
+    "imprecr/ImaxLEDVerte.png",
+    "imprecr/ImaxLEDRouge.png",
+    "imprecr/imax_diode.png",
+    "Polytech/S6/EG/TP",
+    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt3 La contre réaction.md",
     "C/string/strtok.md",
+    "Polytech/S6/Compilation/Chaîne de compilation.pdf",
+    "C/string/string.md",
     "C/string/strcmp.md",
     "C/Valgrind (debugging).md",
-    "Polytech/S6/SDA/TP/tes",
-    "Polytech/S6/SDA/TP/test.c",
     "C/C.md"
   ]
 }
