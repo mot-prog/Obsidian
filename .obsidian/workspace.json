@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a128907a25c9d6f5",
+        "id": "0bcf89c434c9f5cc",
         "type": "tabs",
         "children": [
           {
-            "id": "540fcafa1a904664",
+            "id": "7c95b98b262facd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/push --set-upstream.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "push --set-upstream"
-            }
-          },
-          {
-            "id": "976bbfab461bca07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/Makefile.md",
+                "file": "Git/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Makefile"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh key",
+                "query": "prépa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,23 +185,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "976bbfab461bca07",
+  "active": "7c95b98b262facd1",
   "lastOpenFiles": [
+    "Git/Git.md",
+    "Git/Untitled.md",
+    "C/math/PI.md",
+    "C/math/math.md",
+    "C/gdb (Debugging).md",
+    "C/C.md",
+    "C/math",
+    "Polytech/S6/EG/TP/Séance 2.md",
+    "Polytech/S6/EG/TP/datasheets/LM324.pdf",
+    "Polytech/S6/EG/TP/datasheets/7905C.pdf",
+    "Polytech/S6/EG/TP/datasheets/7905C.pfd",
+    "Polytech/S6/EG/TP/TP.md",
+    "Polytech/S6/EG/TP/Préparation 1.md",
+    "Obsidian CheatList.md",
+    "C/Makefile.md",
+    "Git/push --set-upstream.md",
     "Polytech/S6/SDA/TP/BUILD_CMAKE/trees",
     "Polytech/S6/SDA/TP/BUILD_CMAKE/lists",
     "Polytech/S6/SDA/TP/BUILD_CMAKE/alloc",
     "Polytech/S6/SDA/TP/BUILD_CMAKE/cmake_install.cmake",
     "Polytech/S6/SDA/TP/BUILD_CMAKE/Makefile",
     "Polytech/S6/SDA/TP/BUILD_CMAKE/CMakeCache.txt",
-    "Polytech/S6/SDA/TP/BUILD_CMAKE/CMakeFiles/pkgRedirects",
-    "Polytech/S6/SDA/TP/BUILD_CMAKE/CMakeFiles",
-    "Polytech/S6/SDA/TP/BUILD_CMAKE",
-    "Polytech/S6/SDA/TP/BUILD_CMAKE/BUILD_CMAKE/BUILD_CMAKE",
-    "Polytech/S6/SDA/TP/BUILD_CMAKE/CMakeFiles/Makefile.cmake",
-    "Obsidian CheatList.md",
-    "C/Makefile.md",
     "Git/git remote set-url.md",
-    "Git/Git.md",
     "Git/git submodule add.md",
     "Git/git restore folder.md",
     "Commandes_Linux/Configuration ssh.md",
@@ -224,9 +217,6 @@
     "Perso/Android zshrc.md",
     "Perso/autoclicker.md",
     "Git/git reset.md",
-    "Polytech/S6/EG/TP/Préparation 1.md",
-    "Polytech/S6/EG/TP/Untitled.md",
-    "Polytech/S6/EG/TP/TP.md",
     "Polytech/Polytech.md",
     "A-bloc-émetteur-ir.md",
     "Draw/DDC_fummée.md",
@@ -242,10 +232,6 @@
     "imprecr/ImaxLEDRouge.png",
     "imprecr/imax_diode.png",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt3 La contre réaction.md",
-    "C/string/strtok.md",
-    "C/string/string.md",
-    "C/string/strcmp.md",
-    "C/Valgrind (debugging).md",
-    "C/C.md"
+    "C/string/strtok.md"
   ]
 }

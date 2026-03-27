@@ -1,4 +1,6 @@
 %% Begin Waypoint %%
+- **[[math]]**
+	- [[PI]]
 - **[[stdio]]**
 - **[[string]]**
 - [[gdb (Debugging)]]
