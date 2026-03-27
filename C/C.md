@@ -1,8 +1,8 @@
 %% Begin Waypoint %%
 - **[[math]]**
-	- [[PI]]
 - **[[stdio]]**
 - **[[string]]**
+- [[C]]
 - [[gdb (Debugging)]]
 - [[Isspace]]
 - [[Makefile]]
