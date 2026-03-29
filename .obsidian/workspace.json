@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S6/EG/TP/Préparation 1.md",
-                "mode": "source",
+                "file": "Perso/Debian zshrc.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Préparation 1"
+              "title": "Debian zshrc"
             }
           }
         ],
@@ -202,6 +202,7 @@
   },
   "active": "d344d01a70925cc5",
   "lastOpenFiles": [
+    "Polytech/S6/EG/TP/Préparation 1.md",
     "Polytech/S6/EG/TP/Préparation 1.tex",
     "Polytech/S6/EG/TP/Séance 2.md",
     "Draw/Draw.md",
@@ -237,7 +238,6 @@
     "Polytech/S6/EG/TP/datasheets/7905C.pfd",
     "Polytech/S6/SDA/TP/BUILD_CMAKE/trees",
     "Polytech/S6/SDA/TP/BUILD_CMAKE/lists",
-    "Polytech/S6/SDA/TP/BUILD_CMAKE/alloc",
     "imprecr/Beta transistor  prep.png",
     "imprecr/VBE sat prep1.png",
     "imprecr/powermax_transistor.png",
