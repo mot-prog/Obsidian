@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perso/Debian zshrc.md",
-                "mode": "preview",
+                "file": "Commandes_Linux/sed -e.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Debian zshrc"
+              "title": "sed -e"
             }
           }
         ],
@@ -202,13 +202,28 @@
   },
   "active": "d344d01a70925cc5",
   "lastOpenFiles": [
+    "Polytech/S6/OS/TP/tp2.pdf",
+    "Polytech/S6/OS/TP/tp1.pdf",
+    "Polytech/S6/OS/TP/tp1.md",
+    "Polytech/S6/OS/TP/titreCat.txt",
+    "Polytech/S6/OS/TP/test.c",
+    "Polytech/S6/OS/TP/test",
+    "Polytech/S6/OS/TP/sortHelp.txt",
+    "Polytech/S6/OS/TP/link.txt",
+    "Polytech/S6/OS/TP/imprimez un do cument sur l'une des imprimantes disp onibles dans les salles de TP de Polytech,",
+    "Polytech/S6/OS/TP/err.txt",
+    "Polytech/S6/OS/TP/catTitreAide.txt",
+    "Polytech/S6/OS/TP/catAide.txt",
+    "imprecr/Pasted image 20260330164547.png",
+    "Polytech/S6/OS/OS.md",
+    "Commandes_Linux/sed -e.md",
+    "Commandes_Linux/Commandes_Linux.md",
+    "Perso/Debian zshrc.md",
     "Polytech/S6/EG/TP/Préparation 1.md",
-    "Polytech/S6/EG/TP/Préparation 1.tex",
     "Polytech/S6/EG/TP/Séance 2.md",
     "Draw/Draw.md",
     "Draw/thanks.md",
     "Projets/Projets.md",
-    "Commandes_Linux/Commandes_Linux.md",
     "C/string/string.md",
     "C/stdio/stdio.md",
     "C/math/math.md",
@@ -220,24 +235,10 @@
     "Polytech/S6/CN/CN.md",
     "Polytech/S6/Compilation/Compilation.md",
     "Polytech/S6/EG/EG.md",
-    "Polytech/S6/OS/OS.md",
     "Polytech/S6/Prog SE/Prog SE.md",
     "Polytech/S6/Projet_entreprise/Projet_entreprise.md",
     "Polytech/S6/up/up.md",
     "Polytech/S6/TS/TS.md",
-    "Polytech/S6/SDA/SDA.md",
-    "Polytech/S6/SDA/TD/TD.md",
-    "Polytech/S6/SDA/TP/TP.md",
-    "Polytech/S6/SDA/TP/TP.base",
-    "SDA/TP.md",
-    "Polytech/S6/TS/Eléments de TS.pdf",
-    "Polytech/S6/EG/EG.base",
-    "C/math",
-    "Polytech/S6/EG/TP/datasheets/LM324.pdf",
-    "Polytech/S6/EG/TP/datasheets/7905C.pdf",
-    "Polytech/S6/EG/TP/datasheets/7905C.pfd",
-    "Polytech/S6/SDA/TP/BUILD_CMAKE/trees",
-    "Polytech/S6/SDA/TP/BUILD_CMAKE/lists",
     "imprecr/Beta transistor  prep.png",
     "imprecr/VBE sat prep1.png",
     "imprecr/powermax_transistor.png",
@@ -246,7 +247,6 @@
     "imprecr/VminLEDROUGE.png",
     "imprecr/VminLEDVERTE.png",
     "imprecr/ImaxLEDVerte.png",
-    "imprecr/ImaxLEDRouge.png",
-    "imprecr/imax_diode.png"
+    "imprecr/ImaxLEDRouge.png"
   ]
 }

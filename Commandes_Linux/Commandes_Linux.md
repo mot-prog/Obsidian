@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - [[attr]]
 - [[binwalk]]
+- [[Commandes_Linux]]
 - [[Configuration ssh]]
 - [[cut]]
 - [[df -h]]
@@ -14,6 +15,7 @@
 - [[mediainfo]]
 - [[Mkdir -p]]
 - [[photorec]]
+- [[sed -e]]
 - [[Sorties]]
 - [[TOP]]
 - [[tr]]
