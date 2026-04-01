@@ -14,11 +14,35 @@
               "type": "markdown",
               "state": {
                 "file": "Polytech/S6/EG/TP/Préparation 1.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Préparation 1"
+            }
+          },
+          {
+            "id": "0ad00ad4efad1b7d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Polytech/S6/EG/TP/pictures/cycle.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "cycle"
+            }
+          },
+          {
+            "id": "269a8d78ff4d30e2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Polytech/S6/EG/TP/pictures/divtension.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "divtension"
             }
           }
         ]
@@ -187,6 +211,25 @@
   },
   "active": "540fcafa1a904664",
   "lastOpenFiles": [
+    "Polytech/S6/EG/TP/preparation2.pdf",
+    "Polytech/S6/EG/TP/Préparation 2.md",
+    "Polytech/S6/EG/TP/pictures/imax_diode.png",
+    "Polytech/S6/EG/TP/pictures/ImaxLEDRouge.png",
+    "Polytech/S6/EG/TP/pictures/ImaxLEDVerte.png",
+    "Polytech/S6/EG/TP/pictures/VminLEDVERTE.png",
+    "Polytech/S6/EG/TP/pictures/VminLEDROUGE.png",
+    "Polytech/S6/EG/TP/pictures/VminIRLED.png",
+    "Polytech/S6/EG/TP/pictures/powermax_transistor.png",
+    "Polytech/S6/EG/TP/pictures/VBE sat prep1.png",
+    "Polytech/S6/EG/TP/pictures/Beta transistor  prep.png",
+    "Polytech/S6/EG/TP/TP.md",
+    "A-bloc-émetteur-ir.md",
+    "Polytech/S6/EG/TP/pictures",
+    "Polytech/S6/EG/TP/prep1",
+    "Polytech/S6/EG/TP/Préparation 1.md",
+    "Polytech/S6/EG/TP/pictures/cycle.md",
+    "Polytech/S6/EG/TP/pictures/divtension.md",
+    "Polytech/S6/EG/TP/Préparation 1.pdf",
     "Polytech/S6/EG/TP/EAG.pdf",
     "Polytech/S6/EG/TP/datasheets/EAG_prep1.pdf",
     "Polytech/S6/EG/TP/datasheets/L-53HD.pdf",
@@ -194,30 +237,13 @@
     "Polytech/S6/EG/TP/datasheets/1N4148.pdf",
     "Polytech/S6/EG/TP/datasheets/L-93DP3C.pdf",
     "Polytech/S6/EG/TP/datasheets/BC546B.pdf",
-    "Polytech/S6/EG/TP/datasheets",
-    "Polytech/S6/EG/TP/Préparation 1.tex",
-    "Polytech/S6/EG/TP/Untitled.md",
-    "Polytech/S6/EG/TP/Préparation 1.md",
-    "Polytech/S6/EG/TP/TP.md",
     "Polytech/Polytech.md",
-    "A-bloc-émetteur-ir.md",
     "Draw/DDC_fummée.md",
     "imprecr/Beta transistor  prep.png",
-    "imprecr/VBE sat prep1.png",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt1 Circuits_de_conditionnements.md",
-    "imprecr/powermax_transistor.png",
-    "imprecr/Pasted image 20260324020249.png",
     "Obsidian CheatList.md",
-    "imprecr/VminIRLED.png",
-    "imprecr/VminLEDROUGE.png",
-    "imprecr/VminLEDVERTE.png",
-    "imprecr/ImaxLEDVerte.png",
-    "imprecr/ImaxLEDRouge.png",
-    "imprecr/imax_diode.png",
-    "Polytech/S6/EG/TP",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt3 La contre réaction.md",
     "C/string/strtok.md",
-    "Polytech/S6/Compilation/Chaîne de compilation.pdf",
     "C/string/string.md",
     "C/string/strcmp.md",
     "C/Valgrind (debugging).md",
