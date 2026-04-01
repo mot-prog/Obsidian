@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "a128907a25c9d6f5",
+        "id": "8762282680ff48fc",
         "type": "tabs",
         "children": [
           {
-            "id": "540fcafa1a904664",
+            "id": "aa08f5fead1e5f61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Polytech/S6/EG/TP/Préparation 1.md",
+                "mode": "preview",
+                "source": false
+=======
+                "file": "Obsidian CheatList.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Préparation 1"
+              "title": "Obsidian CheatList"
+            }
+          },
+          {
+            "id": "d344d01a70925cc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polytech/S6/up/memoire/pile.md",
+                "mode": "preview",
+                "source": true
+>>>>>>> c6de3ca2c01518625f0551727e3aed08eea9d5f7
+              },
+              "icon": "lucide-file",
+              "title": "pile"
             }
           },
           {
@@ -45,7 +65,8 @@
               "title": "divtension"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pando",
+                "query": "prépa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,8 +230,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "540fcafa1a904664",
+  "active": "d344d01a70925cc5",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Polytech/S6/EG/TP/preparation2.pdf",
     "Polytech/S6/EG/TP/Préparation 2.md",
     "Polytech/S6/EG/TP/pictures/imax_diode.png",
@@ -248,5 +270,53 @@
     "C/string/strcmp.md",
     "C/Valgrind (debugging).md",
     "C/C.md"
+=======
+    "Polytech/S6/up/memoire/memoire.md",
+    "Polytech/S6/up/memoire/pile.md",
+    "Polytech/S6/up/memoire/Mémoires.md",
+    "Polytech/S6/up/memoire/Mémoire virtuelle.md",
+    "Obsidian CheatList.md",
+    "Polytech/S6/up/memoire/Photos/ex_pagination.md",
+    "Polytech/S6/up/memoire/Gestionnaire Mémoire.md",
+    "Polytech/S6/up/memoire/Adresses et registres.md",
+    "Polytech/S6/up/up.md",
+    "Polytech/S6/OS/TP/tp1.md",
+    "Commandes_Linux/sed -e.md",
+    "Polytech/S6/OS/TP/tp2.pdf",
+    "Polytech/S6/OS/TP/tp1.pdf",
+    "Polytech/S6/OS/TP/titreCat.txt",
+    "Polytech/S6/OS/TP/test.c",
+    "Polytech/S6/OS/TP/test",
+    "Polytech/S6/OS/TP/sortHelp.txt",
+    "Polytech/S6/OS/TP/link.txt",
+    "Polytech/S6/OS/TP/imprimez un do cument sur l'une des imprimantes disp onibles dans les salles de TP de Polytech,",
+    "Polytech/S6/OS/TP/err.txt",
+    "Polytech/S6/OS/TP/catTitreAide.txt",
+    "imprecr/Pasted image 20260330164547.png",
+    "Polytech/S6/OS/OS.md",
+    "Commandes_Linux/Commandes_Linux.md",
+    "Perso/Debian zshrc.md",
+    "Polytech/S6/EG/TP/Préparation 1.md",
+    "Polytech/S6/EG/TP/Séance 2.md",
+    "Draw/Draw.md",
+    "Draw/thanks.md",
+    "Projets/Projets.md",
+    "C/string/string.md",
+    "C/stdio/stdio.md",
+    "C/math/math.md",
+    "C/C.md",
+    "Git/Git.md",
+    "Polytech/S5/S5.md",
+    "Polytech/S6/S6.md",
+    "imprecr/Beta transistor  prep.png",
+    "imprecr/VBE sat prep1.png",
+    "imprecr/powermax_transistor.png",
+    "imprecr/Pasted image 20260324020249.png",
+    "imprecr/VminIRLED.png",
+    "imprecr/VminLEDROUGE.png",
+    "imprecr/VminLEDVERTE.png",
+    "imprecr/ImaxLEDVerte.png",
+    "imprecr/ImaxLEDRouge.png"
+>>>>>>> c6de3ca2c01518625f0551727e3aed08eea9d5f7
   ]
 }
