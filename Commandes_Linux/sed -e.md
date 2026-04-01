@@ -8,5 +8,5 @@ echo Ceci est un poids de 456 KG | sed -e 's/^[^0-9]*\([0-9][0-9]*\)\(.*\).*/val
 ```
 
 >[!remarque]
->On peut changer le caractère `/` après le `s` pour ne pas s'embêter avec les `\`. On peut utiliser un caractère peut utilisé comme `#`.  Cf [[TP]]
+>On peut changer le caractère `/` après le `s` pour ne pas s'embêter avec les `\`. On peut utiliser un caractère peut utilisé comme `#`.  Cf [[tp1]]
 

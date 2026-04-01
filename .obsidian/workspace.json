@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Obsidian CheatList.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commandes_Linux/sed -e.md",
-                "mode": "source",
-                "source": false
+                "file": "Polytech/S6/up/memoire/pile.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "sed -e"
+              "title": "pile"
             }
           }
         ],
@@ -202,9 +202,19 @@
   },
   "active": "d344d01a70925cc5",
   "lastOpenFiles": [
+    "Polytech/S6/up/memoire/memoire.md",
+    "Polytech/S6/up/memoire/pile.md",
+    "Polytech/S6/up/memoire/Mémoires.md",
+    "Polytech/S6/up/memoire/Mémoire virtuelle.md",
+    "Obsidian CheatList.md",
+    "Polytech/S6/up/memoire/Photos/ex_pagination.md",
+    "Polytech/S6/up/memoire/Gestionnaire Mémoire.md",
+    "Polytech/S6/up/memoire/Adresses et registres.md",
+    "Polytech/S6/up/up.md",
+    "Polytech/S6/OS/TP/tp1.md",
+    "Commandes_Linux/sed -e.md",
     "Polytech/S6/OS/TP/tp2.pdf",
     "Polytech/S6/OS/TP/tp1.pdf",
-    "Polytech/S6/OS/TP/tp1.md",
     "Polytech/S6/OS/TP/titreCat.txt",
     "Polytech/S6/OS/TP/test.c",
     "Polytech/S6/OS/TP/test",
@@ -213,10 +223,8 @@
     "Polytech/S6/OS/TP/imprimez un do cument sur l'une des imprimantes disp onibles dans les salles de TP de Polytech,",
     "Polytech/S6/OS/TP/err.txt",
     "Polytech/S6/OS/TP/catTitreAide.txt",
-    "Polytech/S6/OS/TP/catAide.txt",
     "imprecr/Pasted image 20260330164547.png",
     "Polytech/S6/OS/OS.md",
-    "Commandes_Linux/sed -e.md",
     "Commandes_Linux/Commandes_Linux.md",
     "Perso/Debian zshrc.md",
     "Polytech/S6/EG/TP/Préparation 1.md",
@@ -231,14 +239,6 @@
     "Git/Git.md",
     "Polytech/S5/S5.md",
     "Polytech/S6/S6.md",
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/CAO(Capteurs_et Amplificateurs_Operationels.md",
-    "Polytech/S6/CN/CN.md",
-    "Polytech/S6/Compilation/Compilation.md",
-    "Polytech/S6/EG/EG.md",
-    "Polytech/S6/Prog SE/Prog SE.md",
-    "Polytech/S6/Projet_entreprise/Projet_entreprise.md",
-    "Polytech/S6/up/up.md",
-    "Polytech/S6/TS/TS.md",
     "imprecr/Beta transistor  prep.png",
     "imprecr/VBE sat prep1.png",
     "imprecr/powermax_transistor.png",
