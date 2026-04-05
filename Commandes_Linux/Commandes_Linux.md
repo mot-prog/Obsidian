@@ -6,6 +6,7 @@
 - [[cut]]
 - [[df -h]]
 - [[diff]]
+- [[Etat de vie SDA et NVME]]
 - [[file]]
 - [[Installation config zsh]]
 - [[Less - more]]
