@@ -2,4 +2,5 @@ $$\iff
 \implies 
 \mathbf{a}
 \rightarrow 
-\longrightarrow$$
+\longrightarrow
+\infty$$
