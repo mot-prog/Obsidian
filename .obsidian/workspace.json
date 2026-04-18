@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "1bd72a9974126e00",
+    "id": "8371881a242a7c8c",
     "type": "split",
     "children": [
       {
-        "id": "29684402fc6f7c60",
+        "id": "547a1baa3e0c0f41",
         "type": "tabs",
         "children": [
           {
-            "id": "2046dadeb4281922",
+            "id": "16dd2f012f0f06b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex Cheatlist.md",
+                "file": "Git/git commit --amend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex Cheatlist"
+              "title": "git commit --amend"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "faee80335b517125",
+    "id": "f90ddc0e1bcc1578",
     "type": "split",
     "children": [
       {
-        "id": "3537da49bf078770",
+        "id": "77d34c8f82c860c0",
         "type": "tabs",
         "children": [
           {
-            "id": "ddfad71b5c5c4d11",
+            "id": "bacfc23f7c509746",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "f62c2c36f64da211",
+            "id": "edc1738bebba8260",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "307ec25c427c5000",
+            "id": "df45b36b2b76138d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "d8e7cfc2032c3e1f",
+    "id": "55a80d2f76275d82",
     "type": "split",
     "children": [
       {
-        "id": "ae2ffdd1c65f4ef3",
+        "id": "19e9e75d0fdb2f72",
         "type": "tabs",
         "children": [
           {
-            "id": "63b57b9284496d75",
+            "id": "4e522eb4cf8f1161",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex Cheatlist.md",
+                "file": "Polytech/S6/up/up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Latex Cheatlist"
+              "title": "Backlinks for up"
             }
           },
           {
-            "id": "33f731074a079562",
+            "id": "623c35753bceedc0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latex Cheatlist.md",
+                "file": "Polytech/S6/up/up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Latex Cheatlist"
+              "title": "Outgoing links from up"
             }
           },
           {
-            "id": "912ad86a94642234",
+            "id": "11d44c4dc721cc17",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "f68d40653f980100",
+            "id": "7c9067949e22554d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "ce1b0d65420a9ee2",
+            "id": "83e06b0371d6e089",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex Cheatlist.md",
+                "file": "Polytech/S6/up/up.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Latex Cheatlist"
+              "title": "Outline of up"
             }
           }
         ]
@@ -185,6 +185,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2046dadeb4281922",
-  "lastOpenFiles": []
+  "active": "16dd2f012f0f06b0",
+  "lastOpenFiles": [
+    "Git/Git.md",
+    "Git/git commit --amend.md",
+    "Commandes_Linux/dmesg -w.md",
+    "Commandes_Linux/Commandes_Linux.md",
+    "Polytech/S6/up/up.md"
+  ]
 }
