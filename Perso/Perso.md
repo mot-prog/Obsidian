@@ -9,5 +9,6 @@
 - [[Perso]]
 - [[Qualité et défaut]]
 - [[sync.sh]]
+- [[VS-code limite colonne]]
 
 %% End Waypoint %%
