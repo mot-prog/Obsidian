@@ -13,12 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Polytech/S6/EG/Diapo 41 suite.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Diapo 41 suite"
+=======
+                "file": "Commandes_Linux/Bash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bash"
+>>>>>>> ae4a3de82880f74222dde5ca397c8b2d24e6c811
             }
           }
         ]
@@ -196,7 +205,17 @@
     "Perso/VS-code limite colonne.md",
     "Perso/Perso.md",
     "Commandes_Linux/Commandes_Linux.md",
+<<<<<<< HEAD
     "Commandes_Linux/Etat de vie SDA et NVME.md",
+=======
+    "Projets/Bioteos.md",
+    "Commandes_Linux/Bash.md",
+    "Polytech/S6/OS/OS.md",
+    "Commandes_Linux/Etat de vie SDA et NVME.md",
+    "Polytech/S6/EG/TP/TP.md",
+    "imprecr/Pasted image 20260427142225.png",
+    "Polytech/S6/OS/Bash.md",
+>>>>>>> ae4a3de82880f74222dde5ca397c8b2d24e6c811
     "Git/git commit --amend.md",
     "Git/Git.md",
     "Commandes_Linux/dmesg -w.md",
