@@ -17,4 +17,4 @@ Procédure à suivre pour garantir la cohérence des notes de cours.
    - `git push origin main`
 
 ## Sécurité
-[[Configuration_Technique_PC#2. Exclusion Dropbox (xattr)|Ignorer le .git]] garantit que Git ne s'emmêle pas les pinceaux avec la synchro Cloud.
+[[Configuration_Technique_PC (plus à jour)#2. Exclusion Dropbox (xattr)|Ignorer le .git]] garantit que Git ne s'emmêle pas les pinceaux avec la synchro Cloud.

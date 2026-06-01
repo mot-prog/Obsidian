@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0d0d02cbcc30773d",
+        "id": "f1693427abdf3540",
         "type": "tabs",
         "children": [
           {
-            "id": "0a9494272f6bcebd",
+            "id": "ceeb0376bd394c41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/VSCODE Intellisense.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "VSCODE Intellisense"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -185,10 +181,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0a9494272f6bcebd",
+  "active": "ceeb0376bd394c41",
   "lastOpenFiles": [
-    "imprecr/profile_vscode2.png",
+    "Perso/Perso.md",
+    "Latex Cheatlist.md",
+    "OS/TP.md",
+    "Commandes_Linux/tty.md",
+    "Connexion_ Obsidian_Dropbox/Configuration_Technique_PC (plus à jour).md",
+    "Polytech/peip/TP3_cable.pdf",
+    "Polytech/peip/relevé de notes_s3.jpg",
+    "Polytech/peip/TP2_ONDES_STATIONNAIRES.pdf",
+    "Polytech/peip/peip.md",
+    "Draw/Page.md",
+    "Commandes_Linux/Processus bg and fg.md",
+    "Commandes_Linux/Commandes_Linux.md",
+    "Polytech/S6/OS/TP/tp1.md",
+    "OS",
+    "Commandes_Linux/Voir les processus internes au terminal.md",
+    "Commandes_Linux/Bash > execution local et non virtuelle.md",
+    "Polytech/S6/OS/RAID.md",
+    "Polytech/S6/OS/Introduction.md",
+    "Polytech/S6/OS/Chapitre 1.md",
     "C/VSCODE Intellisense.md",
+    "imprecr/profile_vscode2.png",
     "imprecr/profile_vscode.png",
     "C/Drawing 2026-05-23 17.21.50.excalidraw.md",
     "C/C.md",

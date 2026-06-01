@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - [[attr]]
-- [[Bash]]
+- [[Bash > execution local et non virtuelle]]
 - [[binwalk]]
 - [[Commandes_Linux]]
 - [[Configuration ssh]]
@@ -18,10 +18,13 @@
 - [[mediainfo]]
 - [[Mkdir -p]]
 - [[photorec]]
+- [[Processus bg and fg]]
 - [[sed -e]]
 - [[Sorties]]
 - [[TOP]]
 - [[tr]]
+- [[tty]]
+- [[Voir les processus internes au terminal]]
 - [[whoami - id]]
 
 %% End Waypoint %%
