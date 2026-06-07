@@ -11,13 +11,53 @@
             "id": "ceeb0376bd394c41",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+=======
+              "type": "markdown",
+              "state": {
+                "file": "Commandes_Linux/Commandes_Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commandes_Linux"
+            }
+          },
+          {
+            "id": "f0de51cdaa2d29ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Commandes_Linux/Commandes_Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commandes_Linux"
+            }
+          },
+          {
+            "id": "15479f4fa7420db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Commandes_Linux/Bash - execution local et non virtuelle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bash - execution local et non virtuelle"
+>>>>>>> 6d8ef7dbaa2ed40dc59c93f05e32a7bde167a684
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +89,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "strcp",
+=======
+                "query": "ssh",
+>>>>>>> 6d8ef7dbaa2ed40dc59c93f05e32a7bde167a684
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,9 +225,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "ceeb0376bd394c41",
   "lastOpenFiles": [
     "Perso/Perso.md",
+=======
+  "active": "15479f4fa7420db6",
+  "lastOpenFiles": [
+    "Commandes_Linux/Configuration ssh.md",
+    "Commandes_Linux/Commandes_Linux.md",
+    "Commandes_Linux/ln -s.md",
+    "Commandes_Linux/Processus bg and fg.md",
+    "Perso/Application space invader.md",
+    "Perso/Perso.md",
+    "Polytech/S6/Prog SE/Connecteurs USB.md",
+>>>>>>> 6d8ef7dbaa2ed40dc59c93f05e32a7bde167a684
     "Latex Cheatlist.md",
     "OS/TP.md",
     "Commandes_Linux/tty.md",
@@ -193,12 +249,19 @@
     "Polytech/peip/TP2_ONDES_STATIONNAIRES.pdf",
     "Polytech/peip/peip.md",
     "Draw/Page.md",
+<<<<<<< HEAD
     "Commandes_Linux/Processus bg and fg.md",
     "Commandes_Linux/Commandes_Linux.md",
     "Polytech/S6/OS/TP/tp1.md",
     "OS",
     "Commandes_Linux/Voir les processus internes au terminal.md",
     "Commandes_Linux/Bash > execution local et non virtuelle.md",
+=======
+    "Polytech/S6/OS/TP/tp1.md",
+    "OS",
+    "Commandes_Linux/Voir les processus internes au terminal.md",
+    "Commandes_Linux/Bash - execution local et non virtuelle.md",
+>>>>>>> 6d8ef7dbaa2ed40dc59c93f05e32a7bde167a684
     "Polytech/S6/OS/RAID.md",
     "Polytech/S6/OS/Introduction.md",
     "Polytech/S6/OS/Chapitre 1.md",
@@ -211,8 +274,11 @@
     "C/stdio/sscanf.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt3 La contre réaction.md",
+<<<<<<< HEAD
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt2 Circuits_de_conditionnements.md",
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt1 Circuits_de_conditionnements.md",
+=======
+>>>>>>> 6d8ef7dbaa2ed40dc59c93f05e32a7bde167a684
     "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt1 Circuits_de_conditionnements.pdf"
   ]
 }

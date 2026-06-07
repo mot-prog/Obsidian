@@ -2,4 +2,4 @@
 ```bash
 ln -s "path/to/stocked/folder" ~/folder/for/shortcut
 ```
-Shortcut Polytech dans [[Configuration_Technique_PC]]
+Shortcut Polytech dans [[Configuration_Technique_PC (plus à jour)]]

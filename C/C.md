@@ -7,5 +7,6 @@
 - [[Isspace]]
 - [[Makefile]]
 - [[Valgrind (debugging)]]
+- [[VSCODE Intellisense]]
 
 %% End Waypoint %%

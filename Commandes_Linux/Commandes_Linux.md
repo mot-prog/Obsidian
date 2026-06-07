@@ -1,11 +1,13 @@
 %% Begin Waypoint %%
 - [[attr]]
+- [[Bash - execution local et non virtuelle]]
 - [[binwalk]]
 - [[Commandes_Linux]]
 - [[Configuration ssh]]
 - [[cut]]
 - [[df -h]]
 - [[diff]]
+- [[dmesg -w]]
 - [[Etat de vie SDA et NVME]]
 - [[file]]
 - [[Installation config zsh]]
@@ -16,10 +18,13 @@
 - [[mediainfo]]
 - [[Mkdir -p]]
 - [[photorec]]
+- [[Processus bg and fg]]
 - [[sed -e]]
 - [[Sorties]]
 - [[TOP]]
 - [[tr]]
+- [[tty]]
+- [[Voir les processus internes au terminal]]
 - [[whoami - id]]
 
 %% End Waypoint %%
