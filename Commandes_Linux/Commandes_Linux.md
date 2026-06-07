@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - [[attr]]
-- [[Bash > execution local et non virtuelle]]
+- [[Bash - execution local et non virtuelle]]
 - [[binwalk]]
 - [[Commandes_Linux]]
 - [[Configuration ssh]]
