@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "1bd72a9974126e00",
+    "id": "1153b90443b8929b",
     "type": "split",
     "children": [
       {
-        "id": "29684402fc6f7c60",
+        "id": "f1693427abdf3540",
         "type": "tabs",
         "children": [
           {
-            "id": "2046dadeb4281922",
+            "id": "ceeb0376bd394c41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latex Cheatlist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Latex Cheatlist"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "faee80335b517125",
+    "id": "8a1f1c8ec610d656",
     "type": "split",
     "children": [
       {
-        "id": "3537da49bf078770",
+        "id": "dda258182110b1b9",
         "type": "tabs",
         "children": [
           {
-            "id": "ddfad71b5c5c4d11",
+            "id": "97c5eb523670e8a2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +44,12 @@
             }
           },
           {
-            "id": "f62c2c36f64da211",
+            "id": "9011c59073573f08",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "strcp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "307ec25c427c5000",
+            "id": "ff67abb4dfa8aecf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,20 @@
     "width": 300
   },
   "right": {
-    "id": "d8e7cfc2032c3e1f",
+    "id": "5c252f8770f0c33c",
     "type": "split",
     "children": [
       {
-        "id": "ae2ffdd1c65f4ef3",
+        "id": "e35e460ca54c5f66",
         "type": "tabs",
         "children": [
           {
-            "id": "63b57b9284496d75",
+            "id": "a15a080c893b805c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex Cheatlist.md",
+                "file": "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Latex Cheatlist"
+              "title": "Backlinks for pt4 Les applications des AOP"
             }
           },
           {
-            "id": "33f731074a079562",
+            "id": "1af1b8e2e0880f3e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latex Cheatlist.md",
+                "file": "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Latex Cheatlist"
+              "title": "Outgoing links from pt4 Les applications des AOP"
             }
           },
           {
-            "id": "912ad86a94642234",
+            "id": "5464bc6d69667bb1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +133,7 @@
             }
           },
           {
-            "id": "f68d40653f980100",
+            "id": "b7b3c9759fcc1022",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +147,18 @@
             }
           },
           {
-            "id": "ce1b0d65420a9ee2",
+            "id": "4f9c00634a5a7022",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex Cheatlist.md",
+                "file": "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Latex Cheatlist"
+              "title": "Outline of pt4 Les applications des AOP"
             }
           }
         ]
@@ -185,6 +181,38 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2046dadeb4281922",
-  "lastOpenFiles": []
+  "active": "ceeb0376bd394c41",
+  "lastOpenFiles": [
+    "Perso/Perso.md",
+    "Latex Cheatlist.md",
+    "OS/TP.md",
+    "Commandes_Linux/tty.md",
+    "Connexion_ Obsidian_Dropbox/Configuration_Technique_PC (plus à jour).md",
+    "Polytech/peip/TP3_cable.pdf",
+    "Polytech/peip/relevé de notes_s3.jpg",
+    "Polytech/peip/TP2_ONDES_STATIONNAIRES.pdf",
+    "Polytech/peip/peip.md",
+    "Draw/Page.md",
+    "Commandes_Linux/Processus bg and fg.md",
+    "Commandes_Linux/Commandes_Linux.md",
+    "Polytech/S6/OS/TP/tp1.md",
+    "OS",
+    "Commandes_Linux/Voir les processus internes au terminal.md",
+    "Commandes_Linux/Bash > execution local et non virtuelle.md",
+    "Polytech/S6/OS/RAID.md",
+    "Polytech/S6/OS/Introduction.md",
+    "Polytech/S6/OS/Chapitre 1.md",
+    "C/VSCODE Intellisense.md",
+    "imprecr/profile_vscode2.png",
+    "imprecr/profile_vscode.png",
+    "C/Drawing 2026-05-23 17.21.50.excalidraw.md",
+    "C/C.md",
+    "C/string/strcpy.md",
+    "C/stdio/sscanf.md",
+    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
+    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt3 La contre réaction.md",
+    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt2 Circuits_de_conditionnements.md",
+    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt1 Circuits_de_conditionnements.md",
+    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt1 Circuits_de_conditionnements.pdf"
+  ]
 }
