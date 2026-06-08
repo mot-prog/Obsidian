@@ -1,0 +1,35 @@
+%% Begin Waypoint %%
+- **Configuration**
+	- [[Bash - execution local et non virtuelle]]
+	- [[Configuration ssh]]
+	- [[Installation config zsh]]
+	- [[Sorties]]
+- **Files_and_Text**
+	- [[attr]]
+	- [[cut]]
+	- [[diff]]
+	- [[file]]
+	- [[Less - more]]
+	- [[ln -s]]
+	- [[ls -l]]
+	- [[Mkdir -p]]
+	- [[sed -e]]
+	- [[tr]]
+- **Processes**
+	- [[Processus bg and fg]]
+	- [[TOP]]
+	- [[Voir les processus internes au terminal]]
+- **Security_and_Forensics**
+	- [[binwalk]]
+	- [[photorec]]
+	- [[whoami - id]]
+- **System_and_Hardware**
+	- [[df -h]]
+	- [[dmesg -w]]
+	- [[Etat de vie SDA et NVME]]
+	- [[lusb]]
+	- [[mediainfo]]
+	- [[tty]]
+- [[Commandes_Linux]]
+
+%% End Waypoint %%

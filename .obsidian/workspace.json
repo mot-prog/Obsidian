@@ -1,77 +1,37 @@
 {
   "main": {
-    "id": "1153b90443b8929b",
+    "id": "578d8df8ce4ce8da",
     "type": "split",
     "children": [
       {
-        "id": "f1693427abdf3540",
+        "id": "62445d5de908d45e",
         "type": "tabs",
         "children": [
           {
-            "id": "ceeb0376bd394c41",
+            "id": "8f851e7b446d6240",
             "type": "leaf",
             "state": {
-<<<<<<< HEAD
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-=======
-              "type": "markdown",
-              "state": {
-                "file": "Commandes_Linux/Commandes_Linux.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "Commandes_Linux"
-            }
-          },
-          {
-            "id": "f0de51cdaa2d29ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Commandes_Linux/Commandes_Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Commandes_Linux"
-            }
-          },
-          {
-            "id": "15479f4fa7420db6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Commandes_Linux/Bash - execution local et non virtuelle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bash - execution local et non virtuelle"
->>>>>>> 6d8ef7dbaa2ed40dc59c93f05e32a7bde167a684
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8a1f1c8ec610d656",
+    "id": "9d8c61c95cbfa0ec",
     "type": "split",
     "children": [
       {
-        "id": "dda258182110b1b9",
+        "id": "d8b7ea8fc3808d7c",
         "type": "tabs",
         "children": [
           {
-            "id": "97c5eb523670e8a2",
+            "id": "c9f64a191c53b953",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -84,16 +44,12 @@
             }
           },
           {
-            "id": "9011c59073573f08",
+            "id": "29728825ba095060",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-                "query": "strcp",
-=======
-                "query": "ssh",
->>>>>>> 6d8ef7dbaa2ed40dc59c93f05e32a7bde167a684
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +61,7 @@
             }
           },
           {
-            "id": "ff67abb4dfa8aecf",
+            "id": "9b5345dc3d7cbd67",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -121,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "5c252f8770f0c33c",
+    "id": "ce5a3ef75ec2c0dd",
     "type": "split",
     "children": [
       {
-        "id": "e35e460ca54c5f66",
+        "id": "ebdc4a62793dbcda",
         "type": "tabs",
         "children": [
           {
-            "id": "a15a080c893b805c",
+            "id": "2e70fcb3365ef7db",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pt4 Les applications des AOP"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "1af1b8e2e0880f3e",
+            "id": "86b9730c80417e36",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pt4 Les applications des AOP"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "5464bc6d69667bb1",
+            "id": "e1fb0e8b2f984b94",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,7 +131,7 @@
             }
           },
           {
-            "id": "b7b3c9759fcc1022",
+            "id": "d529885f591d9493",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -191,18 +145,17 @@
             }
           },
           {
-            "id": "4f9c00634a5a7022",
+            "id": "5194709e1a176045",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pt4 Les applications des AOP"
+              "title": "Outline"
             }
           }
         ]
@@ -225,60 +178,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "ceeb0376bd394c41",
+  "active": "8f851e7b446d6240",
   "lastOpenFiles": [
+    "Workflow_and_Tools/Workflow_and_Tools.md",
+    "Systems_and_Security/Systems_and_Security.md",
+    "Scripts/Scripts.md",
+    "Programming/C/Standard_Library/Standard_Library.md",
+    "Programming/C/C.md",
+    "Programming/C/Standard_Library/math.md",
+    "Programming/C/Concepts/C.md",
+    "Programming/C/Concepts/Concepts.md",
+    "Programming/C/Build_and_Debug/Build_and_Debug.md",
+    "Programming/Programming.md",
+    "Polytech/Polytech.md",
     "Perso/Perso.md",
-=======
-  "active": "15479f4fa7420db6",
-  "lastOpenFiles": [
-    "Commandes_Linux/Configuration ssh.md",
-    "Commandes_Linux/Commandes_Linux.md",
-    "Commandes_Linux/ln -s.md",
-    "Commandes_Linux/Processus bg and fg.md",
-    "Perso/Application space invader.md",
-    "Perso/Perso.md",
-    "Polytech/S6/Prog SE/Connecteurs USB.md",
->>>>>>> 6d8ef7dbaa2ed40dc59c93f05e32a7bde167a684
-    "Latex Cheatlist.md",
-    "OS/TP.md",
-    "Commandes_Linux/tty.md",
-    "Connexion_ Obsidian_Dropbox/Configuration_Technique_PC (plus à jour).md",
-    "Polytech/peip/TP3_cable.pdf",
-    "Polytech/peip/relevé de notes_s3.jpg",
-    "Polytech/peip/TP2_ONDES_STATIONNAIRES.pdf",
-    "Polytech/peip/peip.md",
-    "Draw/Page.md",
-<<<<<<< HEAD
-    "Commandes_Linux/Processus bg and fg.md",
-    "Commandes_Linux/Commandes_Linux.md",
-    "Polytech/S6/OS/TP/tp1.md",
-    "OS",
-    "Commandes_Linux/Voir les processus internes au terminal.md",
-    "Commandes_Linux/Bash > execution local et non virtuelle.md",
-=======
-    "Polytech/S6/OS/TP/tp1.md",
-    "OS",
-    "Commandes_Linux/Voir les processus internes au terminal.md",
-    "Commandes_Linux/Bash - execution local et non virtuelle.md",
->>>>>>> 6d8ef7dbaa2ed40dc59c93f05e32a7bde167a684
-    "Polytech/S6/OS/RAID.md",
-    "Polytech/S6/OS/Introduction.md",
-    "Polytech/S6/OS/Chapitre 1.md",
-    "C/VSCODE Intellisense.md",
+    "Excalidraw/Excalidraw.md",
+    "Embedded_and_IoT/Embedded_and_IoT.md",
+    "Assets/Assets.md",
+    "AI/AI.md",
+    "Systems_&_Security/Systems_&_Security.md",
+    "Systems_and_Security/Commandes_Linux/Commandes_Linux.md",
+    "Systems_and_Security/Commandes_Linux/Configuration/Sorties.md",
+    "Systems_and_Security/Commandes_Linux/Configuration/Installation config zsh.md",
+    "Systems_and_Security/Commandes_Linux/Configuration/Configuration ssh.md",
+    "Systems_and_Security/Commandes_Linux/Configuration/Bash - execution local et non virtuelle.md",
+    "Systems_and_Security/Commandes_Linux/Security_and_Forensics/whoami - id.md",
+    "Systems_and_Security/Commandes_Linux/Security_and_Forensics/photorec.md",
+    "Systems_and_Security/Commandes_Linux/Security_and_Forensics/binwalk.md",
+    "Systems_and_Security/Commandes_Linux/Processes/Voir les processus internes au terminal.md",
+    "Personal/Chinois",
+    "Personal/autoclicker.py",
+    "Assets/profile_vscode.png",
+    "Assets/profile_vscode2.png",
+    "Assets/Pasted image 20260427142225.png",
+    "Assets/Pasted image 20260330164547.png",
+    "Assets/Pasted image 20260311093852.png",
+    "Workflow_and_Tools",
+    "AI",
+    "Embedded_and_IoT",
+    "Systems_and_Security/Commandes_Linux/Configuration",
+    "Systems_and_Security/Commandes_Linux/Security_and_Forensics",
+    "Systems_and_Security/Commandes_Linux/Processes",
+    "Systems_and_Security/Commandes_Linux/System_and_Hardware",
+    "Systems_and_Security/Commandes_Linux/Files_and_Text",
     "imprecr/profile_vscode2.png",
     "imprecr/profile_vscode.png",
-    "C/Drawing 2026-05-23 17.21.50.excalidraw.md",
-    "C/C.md",
-    "C/string/strcpy.md",
-    "C/stdio/sscanf.md",
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt4 Les applications des AOP.md",
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt3 La contre réaction.md",
-<<<<<<< HEAD
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt2 Circuits_de_conditionnements.md",
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt1 Circuits_de_conditionnements.md",
-=======
->>>>>>> 6d8ef7dbaa2ed40dc59c93f05e32a7bde167a684
-    "Polytech/S6/CAO(Capteurs_et Amplificateurs_Operationels/pt1 Circuits_de_conditionnements.pdf"
+    "imprecr/Pasted image 20260427142225.png",
+    "imprecr/Pasted image 20260330164547.png",
+    "imprecr/Pasted image 20260311093852.png"
   ]
 }

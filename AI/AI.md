@@ -1,4 +1,4 @@
 %% Begin Waypoint %%
-- [[Perso]]
+- [[AI]]
 
 %% End Waypoint %%

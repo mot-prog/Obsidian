@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
-- [[Perso]]
+- [[C]]
+- [[Concepts]]
 
 %% End Waypoint %%

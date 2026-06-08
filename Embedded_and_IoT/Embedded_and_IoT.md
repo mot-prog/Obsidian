@@ -1,4 +1,4 @@
 %% Begin Waypoint %%
-- [[Perso]]
+- [[Embedded_and_IoT]]
 
 %% End Waypoint %%
