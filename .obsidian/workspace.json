@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "62445d5de908d45e",
+        "id": "06a15a023229a410",
         "type": "tabs",
         "children": [
           {
-            "id": "8f851e7b446d6240",
+            "id": "069f2a25aae8b008",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Workflow_and_Tools/git submodule add.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "git submodule add"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 314.5
   },
   "right": {
     "id": "ce5a3ef75ec2c0dd",
@@ -178,41 +182,42 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8f851e7b446d6240",
+  "active": "069f2a25aae8b008",
   "lastOpenFiles": [
-    "Workflow_and_Tools/Workflow_and_Tools.md",
-    "Systems_and_Security/Systems_and_Security.md",
-    "Scripts/Scripts.md",
-    "Programming/C/Standard_Library/Standard_Library.md",
-    "Programming/C/C.md",
-    "Programming/C/Standard_Library/math.md",
-    "Programming/C/Concepts/C.md",
-    "Programming/C/Concepts/Concepts.md",
-    "Programming/C/Build_and_Debug/Build_and_Debug.md",
+    "Workflow_and_Tools/git remote set-url.md",
+    "Systems_and_Security/Commandes_Linux/System_and_Hardware/du -h.md",
+    "Systems_and_Security/Commandes_Linux/System_and_Hardware/df -h.md",
     "Programming/Programming.md",
-    "Polytech/Polytech.md",
-    "Perso/Perso.md",
-    "Excalidraw/Excalidraw.md",
-    "Embedded_and_IoT/Embedded_and_IoT.md",
-    "Assets/Assets.md",
-    "AI/AI.md",
-    "Systems_&_Security/Systems_&_Security.md",
-    "Systems_and_Security/Commandes_Linux/Commandes_Linux.md",
-    "Systems_and_Security/Commandes_Linux/Configuration/Sorties.md",
-    "Systems_and_Security/Commandes_Linux/Configuration/Installation config zsh.md",
+    "Systems_and_Security/Android/Android xiaomi delete apps.md",
+    "Systems_and_Security/Android/Android zshrc.md",
+    "Systems_and_Security/Systems_and_Security.md",
+    "Systems_and_Security/Android",
+    "Workflow_and_Tools/Forcer un push sur git et en locale.md",
     "Systems_and_Security/Commandes_Linux/Configuration/Configuration ssh.md",
-    "Systems_and_Security/Commandes_Linux/Configuration/Bash - execution local et non virtuelle.md",
-    "Systems_and_Security/Commandes_Linux/Security_and_Forensics/whoami - id.md",
-    "Systems_and_Security/Commandes_Linux/Security_and_Forensics/photorec.md",
-    "Systems_and_Security/Commandes_Linux/Security_and_Forensics/binwalk.md",
-    "Systems_and_Security/Commandes_Linux/Processes/Voir les processus internes au terminal.md",
+    "Workflow_and_Tools/git push --set-upstream.md",
+    "Workflow_and_Tools/Workflow_and_Tools.md",
+    "Workflow_and_Tools/git rm -r.md",
+    "Workflow_and_Tools/git rm -r --cached.md",
+    "Polytech/S6/Compilation/TP/tp_makefile/tp_makefile.md",
+    "Polytech/S6/Compilation/TP/tp_librairies/tp_librairies.md",
+    "Polytech/S6/Compilation/TP/tp_librairies/librairies.md",
+    "Perso/Perso.md",
+    "Jeremy Chan.md",
+    "Workflow_and_Tools/Excalidraw.md",
+    "Workflow_and_Tools/Configuration_Technique_PC (plus à jour).md",
+    "Workflow_and_Tools/Architecture_Synchronisation.md",
+    "Workflow_and_Tools/Connexion_ Obsidian_Dropbox.md",
+    "Workflow_and_Tools/Prise_de_Notes_Mobile.md",
+    "Workflow_and_Tools/Obsidian CheatList.md",
+    "Workflow_and_Tools/Latex Cheatlist.md",
+    "Workflow_and_Tools/git submodule add.md",
+    "imprerc/profile_vscode.png",
     "Personal/Chinois",
     "Personal/autoclicker.py",
-    "Assets/profile_vscode.png",
-    "Assets/profile_vscode2.png",
-    "Assets/Pasted image 20260427142225.png",
-    "Assets/Pasted image 20260330164547.png",
-    "Assets/Pasted image 20260311093852.png",
+    "imprerc/profile_vscode2.png",
+    "imprerc/Pasted image 20260427142225.png",
+    "imprerc/Pasted image 20260330164547.png",
+    "imprerc/Pasted image 20260311093852.png",
     "Workflow_and_Tools",
     "AI",
     "Embedded_and_IoT",
@@ -220,7 +225,6 @@
     "Systems_and_Security/Commandes_Linux/Security_and_Forensics",
     "Systems_and_Security/Commandes_Linux/Processes",
     "Systems_and_Security/Commandes_Linux/System_and_Hardware",
-    "Systems_and_Security/Commandes_Linux/Files_and_Text",
     "imprecr/profile_vscode2.png",
     "imprecr/profile_vscode.png",
     "imprecr/Pasted image 20260427142225.png",

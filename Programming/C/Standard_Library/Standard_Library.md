@@ -8,8 +8,6 @@
 - [[fputs]]
 - [[fscanf]]
 - [[Isspace]]
-- [[math]]
-- [[PI]]
 - [[putc]]
 - [[putchar]]
 - [[puts]]
