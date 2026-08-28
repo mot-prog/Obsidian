@@ -1,3 +1,4 @@
+#annuler #cancel #amend #git #commit
 ```bash
 git commit --amend -m "nouveau nom"
 ```

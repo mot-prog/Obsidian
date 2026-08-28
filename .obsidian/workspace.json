@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workflow_and_Tools/git submodule add.md",
-                "mode": "source",
-                "source": false
+                "file": "Workflow_and_Tools/Obsidian CheatList.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "git submodule add"
+              "title": "Obsidian CheatList"
+            }
+          },
+          {
+            "id": "156cc97ade32fff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workflow_and_Tools/git compare branches.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "git compare branches"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git ",
+                "query": "tag:git-log",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +86,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -78,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 200
   },
   "right": {
     "id": "ce5a3ef75ec2c0dd",
@@ -182,35 +202,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "069f2a25aae8b008",
+  "active": "c9f64a191c53b953",
   "lastOpenFiles": [
-    "Workflow_and_Tools/git remote set-url.md",
-    "Systems_and_Security/Commandes_Linux/System_and_Hardware/du -h.md",
-    "Systems_and_Security/Commandes_Linux/System_and_Hardware/df -h.md",
-    "Programming/Programming.md",
-    "Systems_and_Security/Android/Android xiaomi delete apps.md",
-    "Systems_and_Security/Android/Android zshrc.md",
-    "Systems_and_Security/Systems_and_Security.md",
-    "Systems_and_Security/Android",
-    "Workflow_and_Tools/Forcer un push sur git et en locale.md",
-    "Systems_and_Security/Commandes_Linux/Configuration/Configuration ssh.md",
-    "Workflow_and_Tools/git push --set-upstream.md",
-    "Workflow_and_Tools/Workflow_and_Tools.md",
-    "Workflow_and_Tools/git rm -r.md",
-    "Workflow_and_Tools/git rm -r --cached.md",
-    "Polytech/S6/Compilation/TP/tp_makefile/tp_makefile.md",
-    "Polytech/S6/Compilation/TP/tp_librairies/tp_librairies.md",
-    "Polytech/S6/Compilation/TP/tp_librairies/librairies.md",
-    "Perso/Perso.md",
-    "Jeremy Chan.md",
-    "Workflow_and_Tools/Excalidraw.md",
-    "Workflow_and_Tools/Configuration_Technique_PC (plus à jour).md",
-    "Workflow_and_Tools/Architecture_Synchronisation.md",
-    "Workflow_and_Tools/Connexion_ Obsidian_Dropbox.md",
+    "Personal/Debian zshrc.md",
+    "Workflow_and_Tools/git compare branches.md",
+    "Systems_and_Security/Commandes_Linux/System_and_Hardware/media.md",
+    "Workflow_and_Tools/Workflow_Quotidien.md",
     "Workflow_and_Tools/Prise_de_Notes_Mobile.md",
     "Workflow_and_Tools/Obsidian CheatList.md",
     "Workflow_and_Tools/Latex Cheatlist.md",
     "Workflow_and_Tools/git submodule add.md",
+    "Workflow_and_Tools/git rm -r.md",
+    "Workflow_and_Tools/git restore folder.md",
+    "Workflow_and_Tools/git clone --recursive.md",
+    "Workflow_and_Tools/git commit --amend.md",
+    "Workflow_and_Tools/git push --set-upstream.md",
+    "Workflow_and_Tools/git remote set-url.md",
+    "Workflow_and_Tools/git reset.md",
+    "Workflow_and_Tools/Architecture_Synchronisation.md",
+    "Workflow_and_Tools/Configuration_Technique_PC (plus à jour).md",
+    "Workflow_and_Tools/Excalidraw.md",
+    "Workflow_and_Tools/Forcer un push sur git et en locale.md",
+    "Workflow_and_Tools/Workflow_and_Tools.md",
+    "Jeremy Chan.md",
+    "Systems_and_Security/Commandes_Linux/Commandes_Linux.md",
+    "Polytech/S6/up/memoire/Mémoire virtuelle.md",
+    "Polytech/S6/up/memoire/Gestionnaire Mémoire.md",
+    "Polytech/S6/up/memoire/Adresses et registres.md",
+    "Systems_and_Security/Commandes_Linux/System_and_Hardware/du -h.md",
+    "Programming/Python/Environment",
+    "Programming/Python",
+    "Systems_and_Security/Android",
     "imprerc/profile_vscode.png",
     "Personal/Chinois",
     "Personal/autoclicker.py",
@@ -223,8 +245,6 @@
     "Embedded_and_IoT",
     "Systems_and_Security/Commandes_Linux/Configuration",
     "Systems_and_Security/Commandes_Linux/Security_and_Forensics",
-    "Systems_and_Security/Commandes_Linux/Processes",
-    "Systems_and_Security/Commandes_Linux/System_and_Hardware",
     "imprecr/profile_vscode2.png",
     "imprecr/profile_vscode.png",
     "imprecr/Pasted image 20260427142225.png",

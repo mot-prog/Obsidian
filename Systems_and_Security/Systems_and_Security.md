@@ -1,7 +1,5 @@
 %% Begin Waypoint %%
-- **Android**
-	- [[Android xiaomi delete apps]]
-	- [[Android zshrc]]
+- **[[Android]]**
 - **[[Commandes_Linux]]**
 - [[Systems_and_Security]]
 

@@ -1,9 +1,5 @@
 # 📝 Aide-mémoire Obsidian & Markdown
 
-Ce fichier recense les balises les plus utiles pour structurer tes cours d'ingénierie et de code.
-
----
-
 ## 1. Les Callouts (Encadrés)
 
 La syntaxe de base est `> [!TAG] Titre`.
@@ -97,41 +93,15 @@ int main() {//exemple
     return 0;
 }
 ```
-```nasm 
-section .text global _start
-```
+
 `code en ligne`
-[Lien externe](https://lol.fandom.com/wiki/Faker)
-![Lien interne](file:///home/manjaro_mot/T1_Faker_2026_LCK_Cup.webp)
 
-#tags 
+[Lien externe](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQF6DUzUOh9srg%2Farticle-cover_image-shrink_720_1280%2Farticle-cover_image-shrink_720_1280%2F0%2F1714986616134%3Fe%3D2147483647%26v%3Dbeta%26t%3DN3VrB05JKVQRFggtM80AnyhowK7t_lTbtOE0ZDRbJis&f=1&nofb=1&ipt=d97be4ebcb42fda791776b7c234b301474ac682105cc3a7051ce141cc955dcac)
 
---- 
+#tags
 
->[!tip] 
-
->[!done] 
-
->[!danger] 
-
->[! warning] 
-
->[!question]
->
-
->[!quote] 
-
->[!example] 
-
->[!info] 
-
->[!note] 
-
->[!bug] 
-
-
-# Extension pour affichage de code 
-```reference
+### Extension pour affichage de code
+```
 file : Path
 lang : python
 fold : true
@@ -139,6 +109,11 @@ unwrap : false
 title : Bioteos
 ```
 
-
 [[Jeremy Chan]]
 
+## HTML
+#htlm #pictures #sizze #split #dimensions
+<div style="display:flex; justify-content:space-between; gap:16px;">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQF6DUzUOh9srg%2Farticle-cover_image-shrink_720_1280%2Farticle-cover_image-shrink_720_1280%2F0%2F1714986616134%3Fe%3D2147483647%26v%3Dbeta%26t%3DN3VrB05JKVQRFggtM80AnyhowK7t_lTbtOE0ZDRbJis&f=1&nofb=1&ipt=d97be4ebcb42fda791776b7c234b301474ac682105cc3a7051ce141cc955dcac" alt="Left image" style="width:48%; height:auto;">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQF6DUzUOh9srg%2Farticle-cover_image-shrink_720_1280%2Farticle-cover_image-shrink_720_1280%2F0%2F1714986616134%3Fe%3D2147483647%26v%3Dbeta%26t%3DN3VrB05JKVQRFggtM80AnyhowK7t_lTbtOE0ZDRbJis&f=1&nofb=1&ipt=d97be4ebcb42fda791776b7c234b301474ac682105cc3a7051ce141cc955dcac" alt="Right image" style="width:48%; height:auto;">
+</div>

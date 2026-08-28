@@ -12,7 +12,7 @@
 	- [[du -h]]
 	- [[Etat de vie SDA et NVME]]
 	- [[lusb]]
-	- [[mediainfo]]
+	- [[media]]
 	- [[tty]]
 - [[Commandes_Linux]]
 

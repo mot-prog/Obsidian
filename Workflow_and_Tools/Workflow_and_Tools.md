@@ -5,6 +5,7 @@
 - [[Forcer un push sur git et en locale]]
 - [[git clone --recursive]]
 - [[git commit --amend]]
+- [[git compare branches]]
 - [[git push --set-upstream]]
 - [[git remote set-url]]
 - [[git reset]]
