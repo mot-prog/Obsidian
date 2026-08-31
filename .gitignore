@@ -1,7 +1,6 @@
 .DS_Store
 .directory
 *.sync-conflict-*
-.obsidian/workspace.json
-.obsidian/graph.json
-.obsidian/cache/
+.obsidian
+.trash
 .directory
