@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - [[Architecture_Synchronisation]]
+- [[Blender Standalone & NVIDIA PRIME Guide]]
 - [[Configuration_Technique_PC (plus à jour)]]
 - [[Excalidraw]]
 - [[Forcer un push sur git et en locale]]
@@ -16,6 +17,5 @@
 - [[Obsidian CheatList]]
 - [[Prise_de_Notes_Mobile]]
 - [[Workflow_and_Tools]]
-- [[Workflow_Quotidien]]
 
 %% End Waypoint %%
