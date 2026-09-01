@@ -1,3 +1,6 @@
+---
+tags: [scripts]
+---
 ```reference
 file : Scripts/spell.sh
 lang : bash

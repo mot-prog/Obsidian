@@ -1,3 +1,6 @@
+---
+tags: [workflow, tools]
+---
 # 🎨 Schémas de Mémoire et Stack
 
 Notes sur l'utilisation d'[[Excalidraw]] pour les systèmes embarqués.

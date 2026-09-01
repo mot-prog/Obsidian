@@ -1,3 +1,6 @@
+---
+tags: [linux, configuration]
+---
 #key #ssh
 # Lien git
 >[!example] Sur Android dans Termux

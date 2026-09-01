@@ -1,3 +1,6 @@
+---
+tags: [linux, forensics]
+---
 Affiche les détailles d'une image.
 ```bash
 binwalk image.png

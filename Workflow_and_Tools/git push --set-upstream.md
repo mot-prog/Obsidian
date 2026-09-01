@@ -1,3 +1,6 @@
+---
+tags: [workflow, tools]
+---
 ```bash
 git push --set-upstream ssh/https/link currentbranch(main)
 ```

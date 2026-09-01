@@ -1,3 +1,6 @@
+---
+tags: [linux, hardware]
+---
 afficher le numéro du terminal
 
 ```bash

@@ -1,3 +1,6 @@
+---
+tags: [linux, processes]
+---
  ```bash
  ps
  ```

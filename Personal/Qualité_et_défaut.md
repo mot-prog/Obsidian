@@ -1,3 +1,6 @@
+---
+tags: [personal]
+---
 # Mon Profil : Qualités et Axes d'Amélioration
 
 ## 🌟 Points Forts

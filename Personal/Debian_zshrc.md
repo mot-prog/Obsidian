@@ -1,3 +1,6 @@
+---
+tags: [personal]
+---
 ```reference
 file : ./Perso/.zshrc
 lang : bash

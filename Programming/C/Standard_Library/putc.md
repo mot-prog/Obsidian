@@ -1,3 +1,6 @@
+---
+tags: [programming, c, stdlib]
+---
 ```c
 int putc(int c, FILE *stream);
 ```

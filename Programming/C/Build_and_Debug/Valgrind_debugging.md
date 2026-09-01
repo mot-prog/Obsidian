@@ -1,3 +1,6 @@
+---
+tags: [programming, c, debugging]
+---
 ```bash
 valgrind --leak-check=full --track-origin=yes ./monExecutable
 ```

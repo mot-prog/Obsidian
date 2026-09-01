@@ -1,3 +1,6 @@
+---
+tags: [programming, c, debugging]
+---
 Le but est d'enlever les erreurs indiquées par l'intellisense de VSCODE pour avoir un rep de fichiers propre.
 `crtl + shift + p` -> `edit Configuarations (JSON)`
 ```JSON

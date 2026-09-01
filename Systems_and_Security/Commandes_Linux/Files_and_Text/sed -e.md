@@ -1,3 +1,6 @@
+---
+tags: [linux, files-text]
+---
 >string editor
 
 ![[Pasted image 20260330164547.png]]

@@ -1,3 +1,6 @@
+---
+tags: [programming, c, stdlib]
+---
 To compare two string 
 `Returns 0 if a == b` 1 else.
 >[!example] If

@@ -1,3 +1,6 @@
+---
+tags: [programming, c, stdlib]
+---
 ```c
 fgetc(FILE *stream)
 ```

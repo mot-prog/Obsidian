@@ -1,3 +1,6 @@
+---
+tags: [workflow, tools]
+---
 ```bash
 git restore --source=HEAD --staged --worktree <fichier>
 ```

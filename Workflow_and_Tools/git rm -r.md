@@ -1,3 +1,6 @@
+---
+tags: [workflow, tools]
+---
 ```bash
 git rm -r <folder>
 ```

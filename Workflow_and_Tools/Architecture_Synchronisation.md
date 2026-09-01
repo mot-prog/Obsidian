@@ -1,3 +1,6 @@
+---
+tags: [workflow, tools]
+---
 # 🏗️ Architecture du Vault Polytech et des vault obsidian
 
 Ce fichier résume la **synchronisation** d'**Obsidian** sur mon téléphone et mes PC via **Dropbox**.

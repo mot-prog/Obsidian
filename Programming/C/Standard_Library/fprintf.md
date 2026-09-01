@@ -1,3 +1,6 @@
+---
+tags: [programming, c, stdlib]
+---
 ```c
 int fprintf(FILE *restrict stream, const char *restrict format, ...);
 ```

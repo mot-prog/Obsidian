@@ -1,3 +1,6 @@
+---
+tags: [linux, files-text]
+---
 >[!example] cut -d\ 
 >texte.txt : 
 >test de texte pour cut -d. Je suis cut ici test

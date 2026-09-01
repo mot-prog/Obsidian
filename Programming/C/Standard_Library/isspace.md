@@ -1,3 +1,6 @@
+---
+tags: [programming, c, stdlib]
+---
 ```c
 #include <ctype.h>
 int isspace(int c);

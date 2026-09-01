@@ -1,3 +1,6 @@
+---
+tags: [linux, files-text]
+---
 ```bash
 attr -s com.dropbox.ignored -V 1 ~/Dropbox/DropsyncFiles/Obsidian_Vault/Polytech/.git`
 ```

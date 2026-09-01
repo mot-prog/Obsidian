@@ -1,3 +1,6 @@
+---
+tags: [linux, configuration]
+---
 ```bash
 . ./script.sh
 ```

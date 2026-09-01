@@ -1,3 +1,6 @@
+---
+tags: [linux, files-text]
+---
 
 ```bash
 ln -s "path/to/stocked/folder" ~/folder/for/shortcut

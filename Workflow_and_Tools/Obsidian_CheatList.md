@@ -1,3 +1,6 @@
+---
+tags: [workflow, tools]
+---
 # 📝 Aide-mémoire Obsidian & Markdown
 
 ## 1. Les Callouts (Encadrés)

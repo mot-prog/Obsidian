@@ -1,3 +1,6 @@
+---
+tags: [personal]
+---
 ```reference
 file : Perso/autoclicker.py
 lang : python

@@ -1,3 +1,6 @@
+---
+tags: [programming, c, stdlib]
+---
 ```c
 FILE *fopen(const char *restrict path, const char *restrict mode);
 ```

@@ -1,3 +1,6 @@
+---
+tags: [workflow, tools]
+---
 # 🛠️ Configuration Technique (Manjaro)
 
 Détails des commandes utilisées pour maintenir l'intégrité du système.

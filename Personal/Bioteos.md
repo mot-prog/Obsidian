@@ -1,3 +1,6 @@
+---
+tags: [personal]
+---
 #Python #selenium #web #automatisation 
 
 [Lien local Manjaro](file:///home/manjaro_mot/Documents/Projets/rasberry_bioteos/)

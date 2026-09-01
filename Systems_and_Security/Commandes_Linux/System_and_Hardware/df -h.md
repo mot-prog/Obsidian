@@ -1,3 +1,6 @@
+---
+tags: [linux, hardware]
+---
 Pour regarder tout les support physiques utilisée 
 
 ```bash

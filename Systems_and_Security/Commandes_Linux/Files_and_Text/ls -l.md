@@ -1,3 +1,6 @@
+---
+tags: [linux, files-text]
+---
 ```bash
 ls -l fichier.c
 ```

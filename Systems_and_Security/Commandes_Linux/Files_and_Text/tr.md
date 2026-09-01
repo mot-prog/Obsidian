@@ -1,3 +1,6 @@
+---
+tags: [linux, files-text]
+---
 translate
 >[!example] tr "o" "0"
 >remplace les 'o' en '0'

@@ -1,3 +1,6 @@
+---
+tags: [programming, c, stdlib]
+---
 ```c
 int fputs(const char *restrict s, FILE *restrict stream);
 ```

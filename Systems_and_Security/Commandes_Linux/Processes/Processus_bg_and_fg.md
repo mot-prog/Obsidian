@@ -1,3 +1,6 @@
+---
+tags: [linux, processes]
+---
 Permet de mettre des processus en avant et arrière plan. Utilisé dans [[tp1]]
 ```bash
 bg  #permet de mettre le processus en arriere plan

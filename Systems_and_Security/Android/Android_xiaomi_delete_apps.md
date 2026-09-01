@@ -1,3 +1,6 @@
+---
+tags: [android]
+---
 #android #xiaomi #apps 
 ## Android configuration in USB
 - GO in dev mod

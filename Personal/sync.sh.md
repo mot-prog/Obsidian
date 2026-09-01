@@ -1,3 +1,6 @@
+---
+tags: [personal]
+---
 ```sh
 #!/bin/bash
 # chemin du fichier

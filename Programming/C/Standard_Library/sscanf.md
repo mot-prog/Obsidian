@@ -1,3 +1,6 @@
+---
+tags: [programming, c, stdlib]
+---
 ```c
 int sscanf(const char *restrict str, const char *restrict format, ...);
 ```

@@ -1,3 +1,6 @@
+---
+tags: [personal]
+---
 ```bash
 USE_POWERLINE="true"  
 # Has weird character width  

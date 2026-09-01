@@ -1,3 +1,6 @@
+---
+tags: [programming, c, stdlib]
+---
 ```c
 Char* *fgets(char s[restrict .size], int size, FILE *restrict stream)
 ```

@@ -1,3 +1,6 @@
+---
+tags: [programming, c, debugging]
+---
 ```reference
 file : ./Polytech/S6/SDA/TP/Makefile
 lang : Makefile

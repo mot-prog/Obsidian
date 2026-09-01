@@ -1,3 +1,6 @@
+---
+tags: [programming, c, stdlib]
+---
 ```c
 char *strcpy(char *restrict dst, const char *restrict src);
 ```

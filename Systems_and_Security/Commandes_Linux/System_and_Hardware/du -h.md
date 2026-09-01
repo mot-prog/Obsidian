@@ -1,3 +1,6 @@
+---
+tags: [linux, hardware]
+---
 ```bash
 du -h
 ```

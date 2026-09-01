@@ -1,3 +1,6 @@
+---
+tags: [scripts]
+---
 ```reference
 file : Scripts/def.sh
 lang : bash

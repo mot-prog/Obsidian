@@ -1,3 +1,6 @@
+---
+tags: [programming, c, stdlib]
+---
 ```c
 #include <string.h>  
 char *strtok(char *_Nullable restrict str, const char *restrict delim);

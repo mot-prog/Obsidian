@@ -1,3 +1,6 @@
+---
+tags: [programming, c, debugging]
+---
 ### On rajoute le -g pour utiliser gdb à la compilation
 ```bash
 gcc -g fichier.c -o fichier

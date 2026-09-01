@@ -1,3 +1,6 @@
+---
+tags: [scripts]
+---
 ```reference
 file : Scripts/translate.sh
 lang : bash

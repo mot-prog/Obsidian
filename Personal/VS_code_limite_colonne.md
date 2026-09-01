@@ -1,3 +1,6 @@
+---
+tags: [personal]
+---
 ```json
 "editor.rulers": [80, 100, 120],
 "editor.wordWrap": "wordWrapColumn",

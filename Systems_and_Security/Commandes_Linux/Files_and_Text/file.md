@@ -1,3 +1,6 @@
+---
+tags: [linux, files-text]
+---
 ```bash 
 file fichier
 ```
