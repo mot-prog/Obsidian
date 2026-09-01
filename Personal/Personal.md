@@ -2,10 +2,10 @@
 - **[[Chinois]]**
 - [[Application space invader]]
 - [[autoclicker]]
+- [[Bioteos]]
 - [[Crypto]]
 - [[Debian zshrc]]
 - [[Manjaro zshrc]]
-- [[Personal]]
 - [[Qualité et défaut]]
 - [[sync.sh]]
 - [[VS-code limite colonne]]
