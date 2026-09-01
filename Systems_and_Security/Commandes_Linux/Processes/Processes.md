@@ -1,7 +1,6 @@
 %% Begin Waypoint %%
-- [[Processes]]
-- [[Processus bg and fg]]
-- [[TOP]]
-- [[Voir les processus internes au terminal]]
+- [[Processus_bg_and_fg]]
+- [[top]]
+- [[Voir_les_processus_internes_au_terminal]]
 
 %% End Waypoint %%

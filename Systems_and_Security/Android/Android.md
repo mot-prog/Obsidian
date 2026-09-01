@@ -1,6 +1,5 @@
 %% Begin Waypoint %%
-- [[Android xiaomi delete apps]]
-- [[Android zshrc]]
-- [[Android]]
+- [[Android_xiaomi_delete_apps]]
+- [[Android_zshrc]]
 
 %% End Waypoint %%

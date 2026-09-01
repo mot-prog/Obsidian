@@ -2,7 +2,6 @@
 - **[[C]]**
 - **Python**
 	- **Environment**
-		- [[# Repairing a Broken Python `.venv` using `uv`]]
-- [[Programming]]
+		- [[Repairing_a_Broken_Python_venv_using_uv]]
 
 %% End Waypoint %%

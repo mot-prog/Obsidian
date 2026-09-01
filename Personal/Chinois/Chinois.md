@@ -1,8 +1,6 @@
 %% Begin Waypoint %%
-- [[Chinois]]
 - [[laogon]]
-- [[Nu er]]
-- [[xiexie]]
+- [[Nu_er]]
 - [[Ye]]
 
 %% End Waypoint %%

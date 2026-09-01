@@ -1,9 +1,9 @@
 %% Begin Waypoint %%
 - [[Architecture_Synchronisation]]
-- [[Blender Standalone & NVIDIA PRIME Guide]]
-- [[Configuration_Technique_PC (plus à jour)]]
+- [[Blender_Standalone_NVIDIA_PRIME_Guide]]
+- [[Configuration_Technique_PC_plus_a_jour]]
 - [[Excalidraw]]
-- [[Forcer un push sur git et en locale]]
+- [[Forcer_un_push_sur_git_et_en_locale]]
 - [[git clone --recursive]]
 - [[git commit --amend]]
 - [[git compare branches]]
@@ -13,9 +13,8 @@
 - [[git restore folder]]
 - [[git rm -r]]
 - [[git submodule add]]
-- [[Latex Cheatlist]]
-- [[Obsidian CheatList]]
+- [[Latex_Cheatlist]]
+- [[Obsidian_CheatList]]
 - [[Prise_de_Notes_Mobile]]
-- [[Workflow_and_Tools]]
 
 %% End Waypoint %%

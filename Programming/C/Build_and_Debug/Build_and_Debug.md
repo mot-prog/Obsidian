@@ -1,8 +1,7 @@
 %% Begin Waypoint %%
-- [[Build_and_Debug]]
-- [[gdb (Debugging)]]
+- [[gdb_Debugging]]
 - [[Makefile]]
-- [[Valgrind (debugging)]]
-- [[VSCODE Intellisense]]
+- [[Valgrind_debugging]]
+- [[VSCODE_Intellisense]]
 
 %% End Waypoint %%

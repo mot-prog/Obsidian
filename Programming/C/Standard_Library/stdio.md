@@ -3,8 +3,8 @@
 ```
 %% Begin Waypoint %%
 - [[fclose]]
-- [[Fgetc]]
-- [[Fgets]]
+- [[fgetc]]
+- [[fgets]]
 - [[fopen]]
 - [[fprintf]]
 - [[fputc]]

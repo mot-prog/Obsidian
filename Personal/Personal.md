@@ -1,13 +1,13 @@
 %% Begin Waypoint %%
 - **[[Chinois]]**
-- [[Application space invader]]
+- [[Application_space_invader]]
 - [[autoclicker]]
 - [[Bioteos]]
 - [[Crypto]]
-- [[Debian zshrc]]
-- [[Manjaro zshrc]]
-- [[Qualité et défaut]]
+- [[Debian_zshrc]]
+- [[Manjaro_zshrc]]
+- [[Qualité_et_défaut]]
 - [[sync.sh]]
-- [[VS-code limite colonne]]
+- [[VS_code_limite_colonne]]
 
 %% End Waypoint %%

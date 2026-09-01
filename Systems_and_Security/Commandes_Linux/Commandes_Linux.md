@@ -10,10 +10,9 @@
 	- [[df -h]]
 	- [[dmesg -w]]
 	- [[du -h]]
-	- [[Etat de vie SDA et NVME]]
+	- [[Etat_de_vie_SDA_et_NVME]]
 	- [[lusb]]
 	- [[media]]
 	- [[tty]]
-- [[Commandes_Linux]]
 
 %% End Waypoint %%
