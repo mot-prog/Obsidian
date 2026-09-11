@@ -223,10 +223,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "825fed4e8a83d0b3",
+  "active": "16ea40327d648f81",
   "lastOpenFiles": [
-    "TODO.md",
+    "README.md",
+    "imprerc/Recording 20260911010224.m4a",
     "Polytech/S7/Prog_Digital_circuits_security/Home_Work.md",
+    "TODO.md",
     "copilot/copilot-log.md",
     "Polytech/S7/Prog_Digital_circuits_security/uP vs FPGA.md",
     "copilot/skills/copilot-read-pdf/SKILL.md",
@@ -241,7 +243,6 @@
     "copilot/skills/openartifacts-publish/SKILL.md",
     "copilot/skills/openartifacts-publish/openartifacts-publish.ps1",
     "copilot/skills/openartifacts-publish/openartifacts-publish.cmd",
-    "copilot/skills/openartifacts-publish/openartifacts-publish.sh",
     "copilot/skills/openartifacts-publish/themes/research-memo.md",
     "copilot/skills/obsidian-markdown/references/EMBEDS.md",
     "Polytech/S7/Prog_Digital_circuits_security/Applications of logic functions implementation.md",
@@ -270,7 +271,6 @@
     "Polytech/S7/Réseaux/Réseaux.md",
     "imprerc/Pasted image 20260910083005.png",
     "Polytech/S7/Réseaux/Concepts de bases.md",
-    "Systems_and_Security/Linux/Configuration/Configuration files.md",
     "imprerc/Pasted image 20260908095638.png"
   ]
 }
