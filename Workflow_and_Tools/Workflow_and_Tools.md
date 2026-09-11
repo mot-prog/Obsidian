@@ -13,8 +13,6 @@
 - [[git restore folder]]
 - [[git rm -r]]
 - [[git submodule add]]
-- [[Latex_Cheatlist]]
-- [[Obsidian_CheatList]]
 - [[Prise_de_Notes_Mobile]]
 
 %% End Waypoint %%

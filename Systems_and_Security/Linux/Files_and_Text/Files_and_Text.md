@@ -3,7 +3,6 @@
 - [[cut]]
 - [[diff]]
 - [[file]]
-- [[Files_and_Text]]
 - [[Less - more]]
 - [[ln -s]]
 - [[ls -l]]

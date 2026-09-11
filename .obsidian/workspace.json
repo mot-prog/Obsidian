@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "06a15a023229a410",
+        "id": "3e04317a88f57fcd",
         "type": "tabs",
         "children": [
           {
-            "id": "069f2a25aae8b008",
+            "id": "9544ac761d0e5b5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-09-01.md",
-                "mode": "preview",
+                "file": "Polytech/S7/Prog_Digital_circuits_security/Home_Work.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-09-01"
+              "title": "Home_Work"
+            }
+          },
+          {
+            "id": "16ea40327d648f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polytech/S7/Prog_Digital_circuits_security/Home_Work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home_Work"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:git-log",
+                "query": "audio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,13 +181,33 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "2a6e38056954748c",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-relevant-notes-view",
+              "state": {},
+              "icon": "files",
+              "title": "Copilot Relevant Notes"
+            }
+          },
+          {
+            "id": "825fed4e8a83d0b3",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-agent-chat-view",
+              "state": {},
+              "icon": "copilot-agent",
+              "title": "Copilot Agent"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 556.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,57 +218,59 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "3d-graph:3D Graph": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "copilot:Open Copilot Agent Chat": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "069f2a25aae8b008",
+  "active": "825fed4e8a83d0b3",
   "lastOpenFiles": [
-    "Workflow_and_Tools/Blender Standalone & NVIDIA PRIME Guide.md",
-    "2026-09-01.md",
-    "Workflow_and_Tools/Obsidian CheatList.md",
-    "Systems_and_Security/Commandes_Linux/Commandes_Linux.md",
-    "Workflow_and_Tools/Workflow_and_Tools.md",
-    "Workflow_and_Tools/Workflow_Quotidien.md",
-    "Projets/Bioteos.md",
-    "Workflow_and_Tools/git compare branches.md",
-    "Personal/Debian zshrc.md",
-    "Systems_and_Security/Commandes_Linux/System_and_Hardware/media.md",
-    "Workflow_and_Tools/Prise_de_Notes_Mobile.md",
-    "Workflow_and_Tools/Latex Cheatlist.md",
-    "Workflow_and_Tools/git submodule add.md",
-    "Workflow_and_Tools/git rm -r.md",
-    "Workflow_and_Tools/git restore folder.md",
-    "Workflow_and_Tools/git clone --recursive.md",
-    "Workflow_and_Tools/git commit --amend.md",
-    "Workflow_and_Tools/git push --set-upstream.md",
-    "Workflow_and_Tools/git remote set-url.md",
-    "Workflow_and_Tools/git reset.md",
-    "Workflow_and_Tools/Architecture_Synchronisation.md",
-    "Workflow_and_Tools/Configuration_Technique_PC (plus à jour).md",
-    "Workflow_and_Tools/Excalidraw.md",
-    "Workflow_and_Tools/Forcer un push sur git et en locale.md",
-    "Jeremy Chan.md",
-    "Polytech/S6/up/memoire/Mémoire virtuelle.md",
-    "Programming/Python/Environment",
-    "Programming/Python",
-    "Systems_and_Security/Android",
-    "imprerc/profile_vscode.png",
-    "Personal/Chinois",
-    "Personal/autoclicker.py",
-    "imprerc/profile_vscode2.png",
-    "imprerc/Pasted image 20260427142225.png",
-    "imprerc/Pasted image 20260330164547.png",
-    "imprerc/Pasted image 20260311093852.png",
-    "Workflow_and_Tools",
-    "AI",
-    "Embedded_and_IoT",
-    "Systems_and_Security/Commandes_Linux/Configuration",
-    "Systems_and_Security/Commandes_Linux/Security_and_Forensics",
-    "imprecr/profile_vscode2.png",
-    "imprecr/profile_vscode.png",
-    "imprecr/Pasted image 20260427142225.png",
-    "imprecr/Pasted image 20260330164547.png",
-    "imprecr/Pasted image 20260311093852.png"
+    "TODO.md",
+    "Polytech/S7/Prog_Digital_circuits_security/Home_Work.md",
+    "copilot/copilot-log.md",
+    "Polytech/S7/Prog_Digital_circuits_security/uP vs FPGA.md",
+    "copilot/skills/copilot-read-pdf/SKILL.md",
+    "copilot/skills/copilot-read-pdf/read-pdf.ps1",
+    "copilot/skills/copilot-read-pdf/read-pdf.cmd",
+    "copilot/skills/copilot-read-pdf/read-pdf.sh",
+    "copilot/skills/copilot-read-pdf",
+    "copilot/skills/miyo-parse/SKILL.md",
+    "copilot/skills/miyo-parse/miyo-parse.cmd",
+    "copilot/skills/miyo-parse/miyo-parse.sh",
+    "copilot/skills/miyo-parse",
+    "copilot/skills/openartifacts-publish/SKILL.md",
+    "copilot/skills/openartifacts-publish/openartifacts-publish.ps1",
+    "copilot/skills/openartifacts-publish/openartifacts-publish.cmd",
+    "copilot/skills/openartifacts-publish/openartifacts-publish.sh",
+    "copilot/skills/openartifacts-publish/themes/research-memo.md",
+    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
+    "Polytech/S7/Prog_Digital_circuits_security/Applications of logic functions implementation.md",
+    "imprerc/Pasted image 20260911005701.png",
+    "Untitled.md",
+    "2026-09-11.md",
+    "Polytech/S7/Réseaux/TCP IP.md",
+    "Untitled.canvas",
+    "Excalidraw/logic gates.md",
+    "imprerc/OIP-3959929340-removebg-preview.png",
+    "imprerc/OIP-1519261520-removebg-preview.png",
+    "imprerc/png-clipart-nand-gate-logic-gate-xor-gate-symbol-miscellaneous-angle-2797812037-removebg-preview.png",
+    "imprerc/Pasted Image 20260910215337_711.png",
+    "imprerc/Pasted Image 20260910215301_476.png",
+    "AI/Installation of and LLM (ling 3.0 tiny).md",
+    "Polytech/S7/Réseaux/ICMP.md",
+    "imprerc/Pasted image 20260910095124.png",
+    "Excalidraw/analyse_paquet_internet.md",
+    "Excalidraw/Also.md",
+    "Systems_and_Security/network/MAC address.md",
+    "Systems_and_Security/network/Proxy.md",
+    "Systems_and_Security/network/ip address.md",
+    "Excalidraw/internet.md",
+    "Excalidraw/Drawing 2026-09-10 09.41.26.excalidraw.md",
+    "imprerc/Pasted Image 20260910085711_456.png",
+    "Polytech/S7/Réseaux/Réseaux.md",
+    "imprerc/Pasted image 20260910083005.png",
+    "Polytech/S7/Réseaux/Concepts de bases.md",
+    "Systems_and_Security/Linux/Configuration/Configuration files.md",
+    "imprerc/Pasted image 20260908095638.png"
   ]
 }
