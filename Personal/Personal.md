@@ -5,9 +5,12 @@
 - [[Bioteos]]
 - [[Crypto]]
 - [[Debian_zshrc]]
+- [[Entretiens_et_soft_skills]]
+- [[Expérience_Leclerc]]
 - [[Manjaro_zshrc]]
 - [[Qualité_et_défaut]]
 - [[sync.sh]]
 - [[VS_code_limite_colonne]]
 
 %% End Waypoint %%
+

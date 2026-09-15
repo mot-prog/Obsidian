@@ -6,6 +6,8 @@
 - [[ip addr]]
 - [[lusb]]
 - [[media]]
+- [[RAID]]
 - [[tty]]
+- [[USB]]
 
 %% End Waypoint %%

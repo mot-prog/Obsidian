@@ -13,27 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S6/S6.md",
+                "file": "Polytech/S7/OS/OS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S6"
+              "title": "OS"
             }
           },
           {
-            "id": "16f70ade1d864ec4",
+            "id": "71533d4aa7fed47c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/traitement_addr_privéees.md"
+                "file": "Personal/Personal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "traitement_addr_privéees"
+              "icon": "lucide-file",
+              "title": "Personal"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "merge git",
+                "query": "traç",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 803.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,45 +224,47 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9544ac761d0e5b5c",
+  "active": "71533d4aa7fed47c",
   "lastOpenFiles": [
+    "Systems_and_Security/Linux/System_and_Hardware/System_and_Hardware.md",
+    "Systems_and_Security/Systems_and_Security.md",
+    "Personal/Entretiens_et_soft_skills.md",
+    "Personal/Expérience_Leclerc.md",
+    "Electronique/Transistor_émetteur_commun.md",
+    "Electronique/Amplificateurs_opérationnels.md",
+    "Electronique/Capteurs_et_conditionnement.md",
+    "Electronique/Electronique.md",
+    "Polytech/S7/Réseaux/Réseaux.md",
+    "Systems_and_Security/Linux/Processes/Voir_les_processus_internes_au_terminal.md",
+    "Electronique",
+    "Systems_and_Security/Linux/Processes/Processus_bg_and_fg.md",
+    "Systems_and_Security/Linux/System_and_Hardware/tty.md",
+    "Systems_and_Security/Linux/System_and_Hardware/USB.md",
+    "Systems_and_Security/Linux/System_and_Hardware/RAID.md",
+    "Excalidraw/traitement_addr_privéees.md",
+    "Polytech/S6/OS/ref/Drawing 2026-02-16 17.59.35.excalidraw.md",
+    "Polytech/S6/OS/RAID.md",
+    "Systems_and_Security/network/MAC address.md",
+    "Traçage numérique.md",
+    "Systems_and_Security/network/Traçage_numérique.md",
+    "Systems_and_Security/network/ip address.md",
+    "Systems_and_Security/Linux/Security_and_Forensics/OSINT_géolocalisation.md",
+    "Polytech/S6/CN/TP/Image1/trouve.md",
+    "Systems_and_Security/Linux/Security_and_Forensics/Stéganographie.md",
+    "Systems_and_Security/Linux/Security_and_Forensics/binwalk.md",
     "Polytech/S7/OS/OS.md",
-    "Polytech/S7/Réseaux/TCP IP.md",
+    "Polytech/S7/Prog_Digital_circuits_security.tar.gz",
     "Polytech/S7/OS",
-    "Polytech/S7/Réseaux/UDP.md",
     "imprerc/Pasted image 20260915093844.png",
     "imprerc/Pasted image 20260915093824.png",
     "imprerc/Pasted image 20260915093455.png",
-    "Systems_and_Security/network/Couche de transport.md",
-    "Systems_and_Security/network/Passerelles applicatives.md",
-    "Excalidraw/traitement_addr_privéees.md",
-    "Excalidraw/sous-reeaux.md",
-    "Systems_and_Security/network/ICMP.md",
     "imprerc/Pasted image 20260915085259.png",
     "imprerc/Pasted image 20260915085221.png",
     "imprerc/Pasted image 20260915085126.png",
-    "Systems_and_Security/network/ip address.md",
     "imprerc/Pasted Image 20260915084300_628.png",
     "imprerc/Pasted image 20260915083939.png",
     "imprerc/Pasted image 20260915083921.png",
     "imprerc/Pasted image 20260915083558.png",
-    "Polytech/S7/Réseaux/Réseaux.md",
-    "Systems_and_Security/network/paquets_ARP.md",
-    "Systems_and_Security/network/Protocoles.md",
-    "Polytech/S7/Réseaux/Intro.md",
-    "Systems_and_Security/network/Paquet ARP.md",
-    "Excalidraw/exercice3_ip.md",
-    "Excalidraw/analyse_paquet_internet.md",
-    "Polytech/S7/Réseaux/ICMP.md",
-    "Polytech/S7/Réseaux/Concepts de bases.md",
-    "Polytech/S7/Réseaux/CLassification physique.md",
-    "Systems_and_Security/network/Proxy.md",
-    "Systems_and_Security/network/DNS server.md",
-    "Systems_and_Security/network/MAC address.md",
-    "Excalidraw/exrcice2_ip.md",
-    "Excalidraw/exerccie_ip.md",
-    "Excalidraw/Drawing 2026-09-14 09.44.07.excalidraw.md",
-    "Polytech/S7/Prog_Digital_circuits_security/Home_Work.md",
     "imprerc/Recording 20260911010224.m4a",
     "copilot/skills/copilot-read-pdf/read-pdf.ps1",
     "copilot/skills/copilot-read-pdf/read-pdf.cmd",
@@ -266,8 +272,6 @@
     "copilot/skills/copilot-read-pdf",
     "copilot/skills/miyo-parse/miyo-parse.cmd",
     "copilot/skills/miyo-parse/miyo-parse.sh",
-    "copilot/skills/miyo-parse",
-    "copilot/skills/openartifacts-publish/openartifacts-publish.ps1",
     "Untitled.canvas"
   ]
 }
