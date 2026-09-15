@@ -23,3 +23,23 @@ MASQUE =  tout les bits à 1 de mon réseau
 >[!example] Un administrateur réseau de classe C 192.168.0.0 doit subdiviser en différents sous-réseaux. Chaque sous_réseaux correspondra à un VLAN particulier. Un sous-réseau comportera 32 machines, 2 sous-réseaux 16 machines et un dernier 12 machines. DOnnez la valeur des masques pour chacun des sous-réseaux et l'adresse de réseau correspondante.
 >![[exercice3_ip]]
 
+# Classes d'adresses
+
+- **Classe A:**
+![[Pasted image 20260915083538.png]]
+- **Classe B:**
+![[Pasted image 20260915083558.png]]
+- **Classe C:**
+![[Pasted image 20260915083921.png]]
+- **Classe D:**
+![[Pasted image 20260915083939.png]]
+
+>[!warning]
+>Ce sont des vieux protocoles, aujourd'hui le masque réseaux est attribué de manière automatique en fonction des besoins de l'utilisateur.
+
+>[!example]
+>![[sous-reeaux]]
+
+
+
+

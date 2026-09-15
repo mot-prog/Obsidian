@@ -18,6 +18,8 @@
 - [[OSI]]
 - [[Page]]
 - [[proxy]]
+- [[sous-reeaux]]
 - [[thanks]]
+- [[traitement_addr_privéees]]
 
 %% End Waypoint %%

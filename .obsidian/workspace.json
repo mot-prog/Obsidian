@@ -13,36 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S7/Réseaux/Intro.md",
+                "file": "Polytech/S6/S6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "S6"
             }
           },
           {
-            "id": "60131527adf68356",
+            "id": "16f70ade1d864ec4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/analyse_paquet_internet.md"
+                "file": "Excalidraw/traitement_addr_privéees.md"
               },
               "icon": "excalidraw-icon",
-              "title": "analyse_paquet_internet"
-            }
-          },
-          {
-            "id": "16ea40327d648f81",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/exercice3_ip.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "exercice3_ip"
+              "title": "traitement_addr_privéees"
             }
           }
         ]
@@ -216,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 803.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,52 +222,52 @@
   },
   "active": "9544ac761d0e5b5c",
   "lastOpenFiles": [
+    "Polytech/S7/OS/OS.md",
+    "Polytech/S7/Réseaux/TCP IP.md",
+    "Polytech/S7/OS",
+    "Polytech/S7/Réseaux/UDP.md",
+    "imprerc/Pasted image 20260915093844.png",
+    "imprerc/Pasted image 20260915093824.png",
+    "imprerc/Pasted image 20260915093455.png",
+    "Systems_and_Security/network/Couche de transport.md",
+    "Systems_and_Security/network/Passerelles applicatives.md",
+    "Excalidraw/traitement_addr_privéees.md",
+    "Excalidraw/sous-reeaux.md",
+    "Systems_and_Security/network/ICMP.md",
+    "imprerc/Pasted image 20260915085259.png",
+    "imprerc/Pasted image 20260915085221.png",
+    "imprerc/Pasted image 20260915085126.png",
+    "Systems_and_Security/network/ip address.md",
+    "imprerc/Pasted Image 20260915084300_628.png",
+    "imprerc/Pasted image 20260915083939.png",
+    "imprerc/Pasted image 20260915083921.png",
+    "imprerc/Pasted image 20260915083558.png",
+    "Polytech/S7/Réseaux/Réseaux.md",
+    "Systems_and_Security/network/paquets_ARP.md",
+    "Systems_and_Security/network/Protocoles.md",
+    "Polytech/S7/Réseaux/Intro.md",
+    "Systems_and_Security/network/Paquet ARP.md",
+    "Excalidraw/exercice3_ip.md",
+    "Excalidraw/analyse_paquet_internet.md",
     "Polytech/S7/Réseaux/ICMP.md",
     "Polytech/S7/Réseaux/Concepts de bases.md",
     "Polytech/S7/Réseaux/CLassification physique.md",
-    "Polytech/S7/Réseaux/TCP IP.md",
     "Systems_and_Security/network/Proxy.md",
     "Systems_and_Security/network/DNS server.md",
-    "Systems_and_Security/network/ip address.md",
     "Systems_and_Security/network/MAC address.md",
-    "Excalidraw/analyse_paquet_internet.md",
-    "Polytech/S7/Réseaux/Intro.md",
-    "Excalidraw/exercice3_ip.md",
     "Excalidraw/exrcice2_ip.md",
     "Excalidraw/exerccie_ip.md",
     "Excalidraw/Drawing 2026-09-14 09.44.07.excalidraw.md",
     "Polytech/S7/Prog_Digital_circuits_security/Home_Work.md",
-    "Polytech/S7/Réseaux/Routeur.md",
-    "Systems_and_Security/Linux/Security_and_Forensics/traceroute.md",
-    "imprerc/Pasted image 20260914082430.png",
-    "Polytech/S7/Réseaux/Réseaux.md",
-    "Workflow_and_Tools/git compare branches.md",
-    "README.md",
     "imprerc/Recording 20260911010224.m4a",
-    "TODO.md",
-    "copilot/copilot-log.md",
-    "Polytech/S7/Prog_Digital_circuits_security/uP vs FPGA.md",
-    "copilot/skills/copilot-read-pdf/SKILL.md",
     "copilot/skills/copilot-read-pdf/read-pdf.ps1",
     "copilot/skills/copilot-read-pdf/read-pdf.cmd",
     "copilot/skills/copilot-read-pdf/read-pdf.sh",
     "copilot/skills/copilot-read-pdf",
-    "copilot/skills/miyo-parse/SKILL.md",
     "copilot/skills/miyo-parse/miyo-parse.cmd",
     "copilot/skills/miyo-parse/miyo-parse.sh",
     "copilot/skills/miyo-parse",
-    "copilot/skills/openartifacts-publish/SKILL.md",
     "copilot/skills/openartifacts-publish/openartifacts-publish.ps1",
-    "copilot/skills/openartifacts-publish/openartifacts-publish.cmd",
-    "imprerc/Pasted image 20260911005701.png",
-    "Untitled.canvas",
-    "imprerc/OIP-3959929340-removebg-preview.png",
-    "imprerc/OIP-1519261520-removebg-preview.png",
-    "imprerc/png-clipart-nand-gate-logic-gate-xor-gate-symbol-miscellaneous-angle-2797812037-removebg-preview.png",
-    "imprerc/Pasted Image 20260910215337_711.png",
-    "imprerc/Pasted Image 20260910215301_476.png",
-    "imprerc/Pasted image 20260910095124.png",
-    "imprerc/Pasted Image 20260910085711_456.png",
-    "imprerc/Pasted image 20260910083005.png"
+    "Untitled.canvas"
   ]
 }
