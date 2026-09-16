@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S7/CLO/Intro.md",
-                "mode": "preview",
+                "file": "Polytech/S7/CLO/Java.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "Java"
             }
           },
           {
@@ -264,12 +264,13 @@
   },
   "active": "71533d4aa7fed47c",
   "lastOpenFiles": [
+    "Obsidian_CheatList.md",
+    "Polytech/S7/CLO/Java.md",
+    "Polytech/S7/CLO/Intro.md",
+    "Excalidraw/java_vehicules.md",
+    "Excalidraw/clo_comp.md",
     "imprerc/Pasted image 20260916114933.png",
     "imprerc/Pasted image 20260916114559.png",
-    "Obsidian_CheatList.md",
-    "Excalidraw/clo_comp.md",
-    "Excalidraw/java_vehicules.md",
-    "Polytech/S7/CLO/Intro.md",
     "imprerc/Pasted image 20260916112540.png",
     "imprerc/Pasted image 20260916105849.png",
     "imprerc/Pasted image 20260916102728.png",
@@ -305,7 +306,6 @@
     "imprerc/Pasted image 20260915093824.png",
     "imprerc/Pasted image 20260915093455.png",
     "imprerc/Pasted image 20260915085259.png",
-    "imprerc/Pasted image 20260915085221.png",
     "imprerc/Recording 20260911010224.m4a",
     "copilot/skills/copilot-read-pdf/read-pdf.ps1",
     "copilot/skills/copilot-read-pdf/read-pdf.cmd",
