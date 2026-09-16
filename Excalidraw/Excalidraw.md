@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - [[Also]]
 - [[analyse_paquet_internet]]
+- [[clo_comp]]
 - [[Daughter]]
 - [[Draw]]
 - [[Drawing 2026-09-06 15.25.50.excalidraw]]
@@ -14,6 +15,7 @@
 - [[Husband]]
 - [[internet]]
 - [[ip adress]]
+- [[java_vehicules]]
 - [[logic gates]]
 - [[OSI]]
 - [[Page]]
