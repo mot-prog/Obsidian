@@ -4,7 +4,6 @@
 - [[autoclicker]]
 - [[Bioteos]]
 - [[Crypto]]
-- [[Debian_zshrc]]
 - [[Entretiens_et_soft_skills]]
 - [[Expérience_Leclerc]]
 - [[Manjaro_zshrc]]

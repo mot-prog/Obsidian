@@ -8,44 +8,58 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Polytech",
+      "query": "path:Workflow_and_Tools  ",
       "color": {
         "a": 1,
-        "rgb": 591742
+        "rgb": 14701138
       }
     },
     {
-      "query": "path:Polytech/S6  ",
+      "query": "path:Electronique  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:Polytech/S5  ",
+      "query": "path:Programming  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 8708178
       }
     },
     {
-      "query": "path:Commandes_Linux  ",
+      "query": "path:Polytech  ",
+      "color": {
+        "a": 1,
+        "rgb": 794811
+      }
+    },
+    {
+      "query": "path:Systems_and_Security/Linux  ",
       "color": {
         "a": 1,
         "rgb": 0
       }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 2.01246744791667,
-  "lineSizeMultiplier": 2.70392252604167,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.37617777777778,
+  "lineSizeMultiplier": 1.31423209876543,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 20,
+  "centerStrength": 0.235160493827161,
+  "repelStrength": 6.34666666666667,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.034985694387682266,
-  "close": true
+  "linkDistance": 75,
+  "scale": 0.5977633877020399,
+  "close": false
 }
