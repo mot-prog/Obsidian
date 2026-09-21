@@ -22,55 +22,17 @@
             }
           },
           {
-            "id": "71533d4aa7fed47c",
+            "id": "90a141003cc8219e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S7/CLO/Java.md",
+                "file": "Polytech/S7/Réseaux/Cyber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java"
-            }
-          },
-          {
-            "id": "617438340db1d409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian_CheatList.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian_CheatList"
-            }
-          },
-          {
-            "id": "cbb82ef59234995b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/clo_comp.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "clo_comp"
-            }
-          },
-          {
-            "id": "1d73b2057816db03",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/java_vehicules.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "java_vehicules"
+              "title": "Cyber"
             }
           }
         ],
@@ -226,8 +188,8 @@
             "state": {
               "type": "copilot-relevant-notes-view",
               "state": {},
-              "icon": "files",
-              "title": "Copilot Relevant Notes"
+              "icon": "lucide-ghost",
+              "title": "copilot-relevant-notes-view"
             }
           },
           {
@@ -236,8 +198,8 @@
             "state": {
               "type": "copilot-agent-chat-view",
               "state": {},
-              "icon": "copilot-agent",
-              "title": "Copilot Agent"
+              "icon": "lucide-ghost",
+              "title": "copilot-agent-chat-view"
             }
           }
         ],
@@ -257,59 +219,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "copilot:Open Copilot Agent Chat": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "71533d4aa7fed47c",
+  "active": "90a141003cc8219e",
   "lastOpenFiles": [
-    "Obsidian_CheatList.md",
-    "Polytech/S7/CLO/Java.md",
-    "Polytech/S7/CLO/Intro.md",
+    "Polytech/S7/Réseaux/Réseaux.md",
+    "Polytech/S7/Réseaux/Cyber.md",
+    "Polytech/Polytech.md",
+    "Polytech/S7/OS/OS.md",
     "Excalidraw/java_vehicules.md",
     "Excalidraw/clo_comp.md",
-    "imprerc/Pasted image 20260916114933.png",
-    "imprerc/Pasted image 20260916114559.png",
-    "imprerc/Pasted image 20260916112540.png",
-    "imprerc/Pasted image 20260916105849.png",
-    "imprerc/Pasted image 20260916102728.png",
-    "Polytech/S7/CLO/CLO.md",
-    "Polytech/S7/Réseaux/Sécurité des réseaux IP.md",
-    "Polytech/S7/CLO",
-    "Polytech/S7/OS/OS.md",
-    "Untitled.canvas",
-    "README.md",
-    "Polytech/S7/Réseaux/TCP IP.md",
-    "imprerc/Pasted image 20260916081052.png",
-    "Polytech/S7/Réseaux/Réseaux.md",
-    "Polytech/S7/IR/notes.md",
-    "Personal/Personal.md",
-    "Polytech/S7/IR",
-    "Systems_and_Security/Linux/System_and_Hardware/System_and_Hardware.md",
-    "Systems_and_Security/Systems_and_Security.md",
-    "Personal/Entretiens_et_soft_skills.md",
-    "Personal/Expérience_Leclerc.md",
-    "Electronique/Transistor_émetteur_commun.md",
-    "Electronique/Amplificateurs_opérationnels.md",
-    "Electronique/Capteurs_et_conditionnement.md",
-    "Electronique/Electronique.md",
-    "Systems_and_Security/Linux/Processes/Voir_les_processus_internes_au_terminal.md",
-    "Electronique",
-    "Systems_and_Security/Linux/Processes/Processus_bg_and_fg.md",
-    "Systems_and_Security/Linux/System_and_Hardware/tty.md",
-    "Systems_and_Security/Linux/System_and_Hardware/USB.md",
-    "Systems_and_Security/Linux/System_and_Hardware/RAID.md",
-    "Polytech/S7/Prog_Digital_circuits_security.tar.gz",
-    "Polytech/S7/OS",
-    "imprerc/Pasted image 20260915093844.png",
-    "imprerc/Pasted image 20260915093824.png",
-    "imprerc/Pasted image 20260915093455.png",
-    "imprerc/Pasted image 20260915085259.png",
-    "imprerc/Recording 20260911010224.m4a",
-    "copilot/skills/copilot-read-pdf/read-pdf.ps1",
-    "copilot/skills/copilot-read-pdf/read-pdf.cmd",
-    "copilot/skills/copilot-read-pdf/read-pdf.sh",
-    "copilot/skills/copilot-read-pdf"
+    "Obsidian_CheatList.md",
+    "copilot/skills/obsidian-cli/SKILL.md",
+    "copilot/skills/obsidian-cli/LICENSE",
+    "copilot/skills/obsidian-cli",
+    "copilot/skills/json-canvas/SKILL.md",
+    "copilot/skills/json-canvas/LICENSE",
+    "copilot/skills/json-canvas/references/EXAMPLES.md",
+    "copilot/skills/json-canvas/references",
+    "copilot/skills/json-canvas",
+    "copilot/skills/obsidian-bases/SKILL.md",
+    "copilot/skills/obsidian-bases/LICENSE",
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "copilot/skills/obsidian-bases/references",
+    "copilot/skills/obsidian-bases",
+    "copilot/skills/obsidian-markdown/SKILL.md",
+    "copilot/skills/obsidian-markdown/LICENSE",
+    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
+    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
+    "copilot/skills/obsidian-markdown/references",
+    "copilot/skills/openartifacts-publish/SKILL.md",
+    "copilot/skills/openartifacts-publish/themes/research-memo.md",
+    "copilot/skills/copilot-fetch-x/SKILL.md",
+    "copilot/skills/copilot-youtube-transcript/SKILL.md",
+    "copilot/skills/copilot-read-pdf/SKILL.md",
+    "copilot/skills/copilot-web-fetch/SKILL.md",
+    "copilot/skills/copilot-web-search/SKILL.md",
+    "Polytech/peip/Info_tp/S4/C/TP2_3/EX1/organigramme_EX1.png",
+    "Polytech/peip/Info_tp/S2/Python/TP5/trisnbcomp.png",
+    "Polytech/peip/Info_tp/S2/Python/TP5/tris_select.png",
+    "Polytech/peip/Info_tp/S2/Python/TP5/tris_nbcomp.png",
+    "Polytech/peip/Info_tp/S2/Python/TP5/tris_insert.png",
+    "Polytech/peip/relevé de notes_s3.jpg",
+    "Polytech/peip/peip.md",
+    "Polytech/S7/Réseaux/UDP.md",
+    "Polytech/S6/up/memoire/Ref/model-mem.png",
+    "Polytech/S6/up/memoire/Ref/ex3.png",
+    "Polytech/S6/up/memoire/Ref/ex2.png",
+    "Polytech/S6/up/memoire/Ref/ex1.png",
+    "Untitled.canvas"
   ]
 }
