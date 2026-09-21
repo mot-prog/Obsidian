@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S7/OS/OS.md",
+                "file": "Polytech/S7/Réseaux/Sécurité des réseaux IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS"
+              "title": "Sécurité des réseaux IP"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S7/Réseaux/Cyber.md",
+                "file": "Personal/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyber"
+              "title": "TODO"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "traç",
+                "query": "todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ce5a3ef75ec2c0dd",
@@ -198,8 +198,8 @@
             "state": {
               "type": "copilot-agent-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-agent-chat-view"
+              "icon": "copilot-agent",
+              "title": "Copilot Agent"
             }
           }
         ],
@@ -207,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 358.1953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,8 +222,19 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "c9f64a191c53b953",
+  "active": "825fed4e8a83d0b3",
   "lastOpenFiles": [
+    "Polytech/S7/Réseaux/Concepts de bases.md",
+    "Polytech/S7/Réseaux/CLassification physique.md",
+    "Polytech/S7/Réseaux/Sécurité des réseaux IP.md",
+    "Polytech/S7/OS/OS.md",
+    "Programming/C/Build_and_Debug/Compilation.md",
+    "Personal/TODO.md",
+    "Polytech/S6/Projet_entreprise/Cours.md",
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
+    "Polytech/S7/Réseaux/UDP.md",
+    "Polytech/S7/Réseaux/TCP IP.md",
+    "Polytech/S7/Réseaux/Intro.md",
     "imprerc/Pasted image 20260920140146.png",
     "Systems_and_Security/Linux/Arch/Using the AUR.md",
     "Systems_and_Security/Linux/Arch/Arch.md",
@@ -235,7 +245,6 @@
     "Polytech/S7/Réseaux/Réseaux.md",
     "Polytech/S7/Réseaux/Cyber.md",
     "Polytech/Polytech.md",
-    "Polytech/S7/OS/OS.md",
     "Excalidraw/java_vehicules.md",
     "Excalidraw/clo_comp.md",
     "Obsidian_CheatList.md",
@@ -249,18 +258,9 @@
     "copilot/skills/json-canvas",
     "copilot/skills/obsidian-bases/SKILL.md",
     "copilot/skills/obsidian-bases/LICENSE",
-    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
-    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
     "copilot/skills/obsidian-bases/references",
     "copilot/skills/obsidian-bases",
-    "copilot/skills/obsidian-markdown/SKILL.md",
     "copilot/skills/obsidian-markdown/LICENSE",
-    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
-    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
-    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
-    "copilot/skills/openartifacts-publish/SKILL.md",
-    "copilot/skills/openartifacts-publish/themes/research-memo.md",
-    "copilot/skills/copilot-fetch-x/SKILL.md",
     "Polytech/peip/Info_tp/S4/C/TP2_3/EX1/organigramme_EX1.png",
     "Polytech/peip/Info_tp/S2/Python/TP5/trisnbcomp.png",
     "Polytech/peip/Info_tp/S2/Python/TP5/tris_select.png",
@@ -270,7 +270,6 @@
     "Polytech/S6/up/memoire/Ref/model-mem.png",
     "Polytech/S6/up/memoire/Ref/ex3.png",
     "Polytech/S6/up/memoire/Ref/ex2.png",
-    "Polytech/S6/up/memoire/Ref/ex1.png",
     "Untitled.canvas"
   ]
 }

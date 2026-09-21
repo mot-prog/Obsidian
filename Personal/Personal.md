@@ -9,7 +9,7 @@
 - [[Manjaro_zshrc]]
 - [[Qualité_et_défaut]]
 - [[sync.sh]]
-- [[VS_code_limite_colonne]]
+- [[TODO]][VS_code_limite_colonne]]
 
 %% End Waypoint %%
 
