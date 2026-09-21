@@ -9,6 +9,7 @@
 - [[Drawing 2026-09-08 08.25.25.excalidraw]]
 - [[Drawing 2026-09-10 09.41.26.excalidraw]]
 - [[Drawing 2026-09-14 09.44.07.excalidraw]]
+- [[ex1_if_000]]
 - [[exerccie_ip]]
 - [[exercice3_ip]]
 - [[exrcice2_ip]]

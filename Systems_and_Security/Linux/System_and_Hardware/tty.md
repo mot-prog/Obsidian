@@ -13,4 +13,4 @@ tty
 /dev/pts/4
 >```
 
-utilisé dans [[tp1]]
+utilisé dans [[Polytech/S6/OS/TP/tp1]]
