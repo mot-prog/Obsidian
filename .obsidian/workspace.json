@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S7/IR/notes.md",
+                "file": "Systems_and_Security/Linux/Arch/Packages installation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "Packages installation"
             }
           },
           {
@@ -238,6 +238,9 @@
   },
   "active": "029c0f2b3ea79ea3",
   "lastOpenFiles": [
+    "Systems_and_Security/Linux/Arch/Arch.md",
+    "Systems_and_Security/Linux/Arch/Packages installation.md",
+    "Systems_and_Security/Linux/Linux.md",
     "Workflow_and_Tools/Workflow_and_Tools.md",
     "Polytech/S7/IR/notes.md",
     "_tmp_127327_459439aabac90163f39f552b7e093e6d",
@@ -259,8 +262,6 @@
     "copilot/skills/obsidian-bases/SKILL.md",
     "Polytech/S7/IF/TD/Ex1.md",
     "Excalidraw/ex1_if_000.md",
-    "Systems_and_Security/Linux/Arch/Arch.md",
-    "Systems_and_Security/Linux/Linux.md",
     "Polytech/S7/IF/01FSM.pdf",
     "Polytech/S7/IF/00Intro.pdf",
     "Polytech/S7/IF/TD.md",
@@ -276,7 +277,6 @@
     "Polytech/S7/CLO/TP/rectangle/DisplayRectangle.java",
     "Polytech/S7/CLO/Java.md",
     "Systems_and_Security/network/Couche de transport.md",
-    "Polytech/S7/CLO/TP/TP1.md",
     "imprerc/Pasted image 20260916114933.png",
     "imprerc/Pasted image 20260916114559.png",
     "imprerc/Pasted image 20260916112540.png",
