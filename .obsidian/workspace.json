@@ -11,10 +11,14 @@
             "id": "029c0f2b3ea79ea3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Polytech/S7/IR/notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "notes"
             }
           },
           {
@@ -219,6 +223,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "hide-folders:Hide hidden folders again": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -228,12 +233,18 @@
       "bases:Create new base": false,
       "copilot:Open Copilot Agent Chat": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false,
-      "hide-folders:Show hidden folders": false
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "029c0f2b3ea79ea3",
   "lastOpenFiles": [
+    "Polytech/S7/OS/signals/sign.c",
+    "Polytech/S7/OS/signals",
+    "Polytech/S7/OS/Modularité.md",
+    "Polytech/S7/OS/Gestion de signaux.md",
+    "Systems_and_Security/Linux/Arch/Using the AUR.md",
+    "TODO.md",
+    "Untitled.canvas",
     "Personal/Debian_zshrc.md",
     "Personal/Crypto.md",
     "Personal/Manjaro_zshrc.md",
@@ -246,7 +257,6 @@
     "Workflow_and_Tools/Workflow_and_Tools.md",
     "Systems_and_Security/Linux/Arch/Arch.md",
     "Systems_and_Security/Linux/Linux.md",
-    "Systems_and_Security/Linux/Arch/Using the AUR.md",
     "Polytech/S7/IF/01FSM.pdf",
     "Polytech/S7/IF/00Intro.pdf",
     "Polytech/S7/IF/TD.md",
@@ -264,19 +274,13 @@
     "Polytech/S7/CLO/Java.md",
     "Systems_and_Security/network/Couche de transport.md",
     "Polytech/S7/CLO/TP/rectangle/TestRectangle.class",
-    "Polytech/S7/CLO/TP/rectangle/Rectangle.class",
     "Polytech/S7/CLO/TP/TP1.md",
     "Polytech/S7/OS/OS.md",
-    "Polytech/S7/CLO/TP/TP.md",
-    "Obsidian_CheatList.md",
-    "Excalidraw/java_vehicules.md",
-    "Excalidraw/clo_comp.md",
     "imprerc/Pasted image 20260916114933.png",
     "imprerc/Pasted image 20260916114559.png",
     "imprerc/Pasted image 20260916112540.png",
     "imprerc/Pasted image 20260916105849.png",
     "imprerc/Pasted image 20260916102728.png",
-    "Untitled.canvas",
     "imprerc/Pasted image 20260916081052.png",
     "imprerc/Pasted image 20260915093844.png",
     "imprerc/Pasted image 20260915093824.png",
