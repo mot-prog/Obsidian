@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ce5a3ef75ec2c0dd",
@@ -207,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.1953125
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +222,7 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "825fed4e8a83d0b3",
+  "active": "9544ac761d0e5b5c",
   "lastOpenFiles": [
     "Polytech/S7/Réseaux/Concepts de bases.md",
     "Polytech/S7/Réseaux/CLassification physique.md",
