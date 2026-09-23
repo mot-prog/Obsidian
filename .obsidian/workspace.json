@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S7/OS/Gestion de signaux.md",
+                "file": "Polytech/S7/CLO/Abstraction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gestion de signaux"
+              "title": "Abstraction"
             }
           },
           {
@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
+          },
+          {
+            "id": "54f5d62bbda68d56",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,8 +233,16 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "9544ac761d0e5b5c",
+  "active": "54f5d62bbda68d56",
   "lastOpenFiles": [
+    "Personal/TODO.md",
+    "imprerc/Untitled.md",
+    "Polytech/S7/CLO/Abstraction.md",
+    "Excalidraw/clo_comp.md",
+    "Polytech/S7/CLO/Intro.md",
+    "Pasted image 20260923082740.png",
+    "Polytech/S7/CLO/CLO.md",
+    "Polytech/S7/OS/Gestion de signaux.md",
     "Polytech/S7/OS/signals/sign.c~",
     "Polytech/S7/OS/signals/sign.c",
     "Polytech/S7/OS/signals",
@@ -231,13 +250,11 @@
     "Polytech/S7/OS/Modularité.md",
     "Polytech/S7/OS/OS.md",
     "Polytech/S7/Réseaux/Réseaux.md",
-    "Polytech/S7/OS/Gestion de signaux.md",
     "Pasted image 20260922063442.png",
     "Polytech/S7/Réseaux/Sécurité des réseaux IP.md",
     "Polytech/S7/Réseaux/Concepts de bases.md",
     "Polytech/S7/Réseaux/CLassification physique.md",
     "Programming/C/Build_and_Debug/Compilation.md",
-    "Personal/TODO.md",
     "Polytech/S6/Projet_entreprise/Cours.md",
     "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
     "Polytech/S7/Réseaux/UDP.md",
@@ -252,16 +269,11 @@
     "Excalidraw/ex1_if_000.md",
     "Polytech/S7/Réseaux/Cyber.md",
     "Polytech/Polytech.md",
-    "Excalidraw/java_vehicules.md",
-    "Excalidraw/clo_comp.md",
-    "Obsidian_CheatList.md",
-    "copilot/skills/obsidian-cli/SKILL.md",
     "copilot/skills/obsidian-cli/LICENSE",
     "copilot/skills/obsidian-cli",
     "copilot/skills/json-canvas/LICENSE",
     "copilot/skills/json-canvas/references",
     "copilot/skills/json-canvas",
-    "copilot/skills/obsidian-bases/LICENSE",
     "Polytech/peip/Info_tp/S4/C/TP2_3/EX1/organigramme_EX1.png",
     "Polytech/peip/Info_tp/S2/Python/TP5/trisnbcomp.png",
     "Polytech/peip/Info_tp/S2/Python/TP5/tris_select.png",
@@ -269,7 +281,6 @@
     "Polytech/peip/Info_tp/S2/Python/TP5/tris_insert.png",
     "Polytech/peip/relevé de notes_s3.jpg",
     "Polytech/S6/up/memoire/Ref/model-mem.png",
-    "Polytech/S6/up/memoire/Ref/ex3.png",
     "Untitled.canvas"
   ]
 }
