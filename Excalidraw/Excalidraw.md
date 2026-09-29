@@ -24,5 +24,7 @@
 - [[sous-reeaux]]
 - [[thanks]]
 - [[traitement_addr_privéees]]
+- [[vlan]]
+- [[wifi_polytech]]
 
 %% End Waypoint %%
