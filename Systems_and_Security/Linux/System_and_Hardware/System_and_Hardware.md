@@ -6,6 +6,7 @@
 - [[ip addr]]
 - [[lusb]]
 - [[media]]
+- [[ncdu]]
 - [[RAID]]
 - [[tty]]
 - [[USB]]
