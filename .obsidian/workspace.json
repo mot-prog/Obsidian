@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polytech/S7/CLO/Collections d'objets.md",
+                "file": "Polytech/S7/CLO/Exceptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Collections d'objets"
+              "title": "Exceptions"
+            }
+          },
+          {
+            "id": "769ee7a7d08ac620",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.dequidt.me/teaching/object-oriented-software-design/practicals/practical_003/#1-evaluating-gates",
+                "title": "Lab #3: Simulating Circuits — Exceptions and Interactive Probes - Object Oriented Software Design",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Lab #3: Simulating Circuits — Exceptions and Interactive Probes - Object Oriented Software Design"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,46 +253,46 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "54f5d62bbda68d56",
+  "active": "769ee7a7d08ac620",
   "lastOpenFiles": [
-    "Polytech/S7/CLO/CLO.md",
-    "Polytech/S7/CLO/Collections d'objets.md",
+    "Polytech/S7/IR/notes.md",
+    "Polytech/S7/CLO/TP/TP3_exceptions/components/Valve.class",
+    "Polytech/S7/CLO/TP/TP3_exceptions/components/Switch.class",
+    "Polytech/S7/CLO/TP/TP3_exceptions/components/Or.class",
+    "Polytech/S7/CLO/TP/TP3_exceptions/components/Not.class",
+    "Polytech/S7/CLO/TP/TP3_exceptions/components/CircuitTest.class",
+    "Polytech/S7/CLO/TP/TP3_exceptions/components/NotConnectedException.class",
+    "Polytech/S7/CLO/TP/TP3_exceptions/components/Component.class",
+    "Polytech/S7/CLO/TP/TP3_exceptions/components/Gate.class",
+    "Polytech/S7/CLO/TP/TP3_exceptions/components/TwoInputGate.class",
+    "Polytech/S7/CLO/TP/TP3_exceptions/components/And.class",
+    "Polytech/S7/CLO/TP/TP3_exceptions/components/expermiments.md",
     "Polytech/S7/CLO/Exceptions.md",
+    "Polytech/S7/CLO/Intro.md",
+    "Personal/TODO.md",
+    "Polytech/S7/CLO/Collections d'objets.md",
+    "Polytech/S7/CLO/CLO.md",
+    "Polytech/S7/CLO/TP/TP3_exceptions/components/todo.md",
+    "Polytech/S7/CLO/TP/TP.md",
     "Polytech/S7/CLO/Java.md",
     "Polytech/S7/Réseaux/VLAN.md",
-    "Polytech/S7/OS/signals/TP/perdu",
-    "Polytech/S7/OS/signals/TP/oups",
-    "Polytech/S7/OS/signals/TP/ex4.c",
-    "Polytech/S7/OS/signals/TP/ex3.c",
-    "Polytech/S7/OS/signals/TP/ex3",
-    "Polytech/S7/OS/signals/TP/ex2.c",
-    "Polytech/S7/OS/signals/TP/ex2",
-    "Polytech/S7/OS/signals/TP/ex1.c",
     "Polytech/S7/OS/signals/TP/TP.md",
-    "Polytech/S7/OS/signals/TP/Makefile",
-    "Polytech/S7/OS/signals/TP",
     "Systems_and_Security/Linux/System_and_Hardware/ncdu.md",
     "Excalidraw/wifi_polytech.md",
     "Excalidraw/vlan.md",
     "Polytech/S7/CLO/TP/TP2_portes/components/todo.md",
-    "Polytech/S7/CLO/TP/TP.md",
     "Polytech/S7/CLO/TP/TP_rect/TP.md",
     "Polytech/S7/CLO/TP/TP_rect/TP1.md",
     "TODO.md",
     "Systems_and_Security/Linux/Arch/Packages installation.md",
-    "Personal/TODO.md",
     "imprerc/Untitled.md",
     "Polytech/S7/CLO/Abstraction.md",
     "Excalidraw/clo_comp.md",
-    "Polytech/S7/CLO/Intro.md",
     "Pasted image 20260923082740.png",
     "Polytech/S7/OS/Gestion de signaux.md",
     "Polytech/S7/OS/Modularité.md",
     "Polytech/S7/OS/OS.md",
-    "Polytech/S7/Réseaux/Réseaux.md",
     "Pasted image 20260922063442.png",
-    "Polytech/S7/Réseaux/Sécurité des réseaux IP.md",
-    "Polytech/S7/Réseaux/Concepts de bases.md",
     "imprerc/Pasted image 20260920140146.png",
     "Polytech/peip/Info_tp/S4/C/TP2_3/EX1/organigramme_EX1.png",
     "Polytech/peip/Info_tp/S2/Python/TP5/trisnbcomp.png",
