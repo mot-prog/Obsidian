@@ -1,1 +1,0 @@
-install spicetify-CLI (probleme package AUR)
