@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workflow_and_Tools/git submodule add.md",
+                "file": "Polytech/S7/OS/Threads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git submodule add"
+              "title": "Threads"
+            }
+          },
+          {
+            "id": "af85494d4764d6ae",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://tvantroys.plil.fr/IOT4/S7_systeme/TP/tp_signaux.pdf",
+                "title": "tvantroys.plil.fr/IOT4/S7_systeme/TP/tp_signaux.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "tvantroys.plil.fr/IOT4/S7_systeme/TP/tp_signaux.pdf"
             }
           }
         ]
@@ -55,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "submodu",
+                "query": "git diff",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,8 +207,23 @@
       "hide-folders:Hide hidden folders again": false
     }
   },
-  "active": "89b7b3504b1fef41",
+  "active": "2d5e4995d31f5a8f",
   "lastOpenFiles": [
+    "imprerc/Pasted image 20261005091819.png",
+    "imprerc/Pasted image 20261005091810.png",
+    "Excalidraw/Drawing 2026-09-10 09.41.26.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-06 15.25.50.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-06 15.25.51.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-08 08.25.25.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-14 09.44.07.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-05 08.51.42.excalidraw.md",
+    "Polytech/S7/OS/Threads.md",
+    "Excalidraw/Excalidraw.md",
+    "Polytech/S7/OS/OS.md",
+    "Polytech/S7/OS/Gestion de signaux.md",
+    "Polytech/Polytech.md",
+    "imprerc/imprerc.md",
+    "Workflow_and_Tools/git submodule add.md",
     "Polytech/Personal/Chinois/xiexie.md",
     "Polytech/Personal/Chinois/laogon.md",
     "Polytech/Personal/Chinois/Ye.md",
@@ -208,12 +237,7 @@
     "Polytech/Personal/Qualité_et_défaut.md",
     "Polytech/Personal/Personal.md",
     "Polytech/Personal/Manjaro_zshrc.md",
-    "Polytech/Personal/Expérience_Leclerc.md",
-    "Polytech/Personal/Entretiens_et_soft_skills.md",
-    "Polytech/Personal/Crypto.md",
     "Polytech/Personal/Chinois",
-    "Polytech/Personal/Bioteos.md",
-    "Polytech/Personal/Application_space_invader.md",
     "Polytech/Personal"
   ]
 }
