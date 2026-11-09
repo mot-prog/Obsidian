@@ -2,6 +2,7 @@
 - [[Architecture_Synchronisation]]
 - [[Blender_Standalone_NVIDIA_PRIME_Guide]]
 - [[Configuration_Technique_PC_plus_a_jour]]
+- [[echo $?]]
 - [[Excalidraw]]
 - [[Forcer_un_push_sur_git_et_en_locale]]
 - [[git clone --recursive]]
@@ -13,6 +14,5 @@
 - [[git restore folder]]
 - [[git rm -r]]
 - [[git submodule add]]
-- [[Prise_de_Notes_Mobile]]
-
+- [[Prise_de_Not[[echo $?]]
 %% End Waypoint %%
